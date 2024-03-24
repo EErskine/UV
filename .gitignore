@@ -1,6 +1,7 @@
 # Images and outputs
 *.pdf
 *.html
+*.png
 
 ./Results
 ### R ###
