@@ -2,7 +2,7 @@
 *.pdf
 *.html
 *.png
-
+./Results
 ./Results/*
 
 ### R ###

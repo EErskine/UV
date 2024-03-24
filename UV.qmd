@@ -1,7 +1,10 @@
 ---
-title: "UV dataset"
-format: html
-editor: visual
+title: "UV fluence vs Microbial Load, meta-study"
+author: "Elliot Erskine"
+date: "2024-03-24"
+output:
+  html_document:
+    keep_md: true
 ---
 
 ```{r}
@@ -18,20 +21,32 @@ The following dataset was collected from the Canadian Industrial \[link-here\]
 
 ```{r}
 #| label: load-data
-#| include: false
 
+# making list to filter out kingdoms we are not interested in
 remove <- c("Animalia", "Plantae","Fungi","Protozoa","Archaea","Virus")
 
+# read in UV data
 UV <- read.csv("UV_full.csv", header=TRUE)
+
+# rename columns
 names(UV) <- c("kingdom", 'phyla',	'class',	'order',	'family',	'genera',	'gram',	"species",	"number",	"method",	"type",	"host",	"lamp",	"wavelength",	"1",	"2",	"3",	"4",	"5",	"6",	"protocol",	"tailing",	"antibiotic_resistant",	"reference",	"action_spectrum", "pathogen")
+
+# pivot table from wider to longer on fluence value required for log10 reduction of microbe
 UV <-  pivot_longer(UV, c("1",	"2",	"3",	"4",	"5",	"6"), names_to = "log10_reduction", values_to = "fluence") %>% 
-  transform(log10_reduction = as.numeric(log10_reduction)) %>% 
+  # use log10 reduction as number
+  #transform(log10_reduction = as.numeric(log10_reduction)) %>% 
+  # remove empty rows with no UV data
   filter(!is.na(fluence)) %>% 
-  select("kingdom", 'phyla',	'class',	'order',	'family',	'genera',	'gram',	"species",	"number",	"method",	"type",	"host",	"lamp",	"wavelength",	"protocol",	"tailing",	"antibiotic_resistant",	"reference",	"action_spectrum", "pathogen", "log10_reduction", "fluence") %>% 
+  # select specific columns to take forward
+  select("kingdom", 'order',	'genera',	'gram',	"species",	"lamp",	"wavelength",	"antibiotic_resistant",	"pathogen", "log10_reduction", "fluence") %>%
+  # filter out unwanted kingdoms
   filter(!kingdom %in% remove) %>%
+  # filter out non-pathogens
   filter(pathogen == "Y") %>%
+  # thresholding fluence
   filter(fluence >= 0 & fluence <= 500)
 
+# add conditional column of % survival based on log10_reduction
 UV <- mutate(UV,
              percent_survival = case_when(log10_reduction == 1 ~ "10%",
                                        log10_reduction == 2 ~ "1%",
@@ -42,6 +57,8 @@ UV <- mutate(UV,
 ```
 
 ## Visualising
+
+#### Log10 reduction in pathogens
 
 The following @fig-scatterplot shows that the majority of pathogenic bacteria are reduced by x-log at a fluence of 40 mJ/cm
 
@@ -60,6 +77,10 @@ ggplot(UV, aes(x=fluence, y=log10_reduction)) +
   geom_jitter(aes(col=order))
 ```
 
+#### Survival of pathogens using 40 mJ/cm lamp or weaker
+
+Looking at expected pathogen survival using 40 mJ/cm lamp @fig-histogram1
+
 ```{r}
 #| label: fig-histogram1
 #| fig-cap: "Using a 40 mJ/cm lamp (or weaker), expected survival of bacteria"
@@ -73,18 +94,23 @@ ggplot(UV_2, aes(x=percent_survival,fill=order)) +
   labs(x="% survival")
 ```
 
+#### Survival of pathogens using 40 mJ/cm lamp or stronger
+
+Expected pathogen survival of greater than 0.01% of population when using greater than 40 mJ/cm @fig-histogram2
+
 ```{r}
 #| label: fig-histogram2
-#| fig-cap: "Using a 40 mJ/cm lamp (or greater), expected reduction in bacterial load"
+#| fig-cap: "Using a 40 mJ/cm lamp (or greater), expected survival of >0.01% of pathogen pop."
 #| fig-width: 6
 #| fig-height: 3.5
 
 UV_2 <- filter(UV, fluence>40 & log10_reduction <3)
-ggplot(UV_2, aes(x=log10_reduction)) +
+ggplot(UV_2, aes(x=order)) +
   theme_bw(base_size=18) + 
-  geom_histogram() +
-  labs(x="(x)Log10 reduction in bacterial load", y="")
+  geom_histogram() 
 ```
+
+### SCRAPS
 
 ```{r}
 #| label: scraps
