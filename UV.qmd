@@ -2,9 +2,9 @@
 title: "UV fluence vs Microbial Load, meta-study"
 author: "Elliot Erskine"
 date: "2024-03-24"
-output:
-  html_document:
-    keep_md: true
+format:
+  html: 
+    theme: journal
 ---
 
 ```{r}
@@ -65,8 +65,8 @@ The following @fig-scatterplot shows that the majority of pathogenic bacteria ar
 ```{r}
 #| label: fig-scatterplot
 #| fig-cap: "Log10 reduction in bacterial load at increasing UV fluence"
-#| fig-width: 6
-#| fig-height: 3.5
+#| fig-width: 10
+#| fig-height: 7
 
 cbp1 <- c("#999999", "#E69F00", "#CC79A7", "#56B4E9",
           "#F0E442", "#0072B2", "#D55E00", "#009E73")
@@ -84,8 +84,8 @@ Looking at expected pathogen survival using 40 mJ/cm lamp @fig-histogram1
 ```{r}
 #| label: fig-histogram1
 #| fig-cap: "Using a 40 mJ/cm lamp (or weaker), expected survival of bacteria"
-#| fig-width: 6
-#| fig-height: 3.5
+#| fig-width: 10
+#| fig-height: 7
 
 UV_2 <- filter(UV, fluence<=40)
 ggplot(UV_2, aes(x=percent_survival,fill=order)) +
@@ -100,17 +100,16 @@ Expected pathogen survival of greater than 0.01% of population when using greate
 
 ```{r}
 #| label: fig-histogram2
-#| fig-cap: "Using a 40 mJ/cm lamp (or greater), expected survival of >0.01% of pathogen pop."
-#| fig-width: 6
-#| fig-height: 3.5
+#| fig-cap: "Expected survival of >0.01% of pathogen pop."
+#| fig-width: 10
+#| fig-height: 7
 
-UV_2 <- filter(UV, fluence>40 & log10_reduction <3)
-ggplot(UV_2, aes(x=order)) +
+UV_2 <- filter(UV, log10_reduction <3)
+ggplot(UV_2, aes(x=percent_survival,fill=order)) +
   theme_bw(base_size=18) + 
-  geom_histogram() 
+  geom_bar() +
+  labs(x="% survival")
 ```
-
-### SCRAPS
 
 ```{r}
 #| label: scraps
