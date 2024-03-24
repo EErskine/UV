@@ -1,6 +1,8 @@
 # Images and outputs
 *.pdf
 *.html
+
+./Results
 ### R ###
 # History files
 .Rhistory
