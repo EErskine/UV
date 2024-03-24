@@ -1,0 +1,818 @@
+Kingdom,Species,Number,Method,Type,Host,Lamp,Wavelength,Log,Fluence,Protocol,Tailing,Antibiotic_Resistant,Reference,Action_Spectrum
+Fungi,Aspergillus brasiliensis,ATCC 16404,,Spore,,LP,,1,122,Y,N,,Taylor-Edmonds et al. 2015,N
+Fungi,Aspergillus brasiliensis,ATCC 16404,,Spore,,LP,,2,226,Y,N,,Taylor-Edmonds et al. 2015,N
+Fungi,Aspergillus brasiliensis,ATCC 16404,,Spore,,LP,,3,293,Y,N,,Taylor-Edmonds et al. 2015,N
+Fungi,Aspergillus niger,ATCC 32625,,Spore,,LP,,1,116,Y,N,,Clauß 2006,N
+Fungi,Aspergillus niger,ATCC 32625,,Spore,,LP,,2,245,Y,N,,Clauß 2006,N
+Fungi,Aspergillus niger,ATCC 32625,,Spore,,LP,,3,370,Y,N,,Clauß 2006,N
+Fungi,Aspergillus niger,ATCC 32625,,Spore,,LP,,4,560,Y,N,,Clauß 2006,
+Fungi,Aspergillus niger,ATCC 32625,,Spore,,Excimer,222,1,90,Y,N,,Clauß 2006,N
+Fungi,Aspergillus niger,ATCC 32625,,Spore,,Excimer,222,2,220,Y,N,,Clauß 2006,N
+Fungi,Aspergillus niger,ATCC 32625,,Spore,,Excimer,222,3,325,Y,N,,Clauß 2006,N
+Fungi,Aspergillus niger,ATCC 32625,,Spore,,Excimer,222,4,430,Y,N,,Clauß 2006,N
+Bacteria,Bacillus anthracis,Sterne,,Spore,,LP,,1,28,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus anthracis,Sterne,,Spore,,LP,,2,37,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus anthracis,Sterne,,Spore,,LP,,3,52,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus anthracis,Sterne,,Spore,,LP,,1,23,Y,N,,Blatchley III et al. 2005,N
+Bacteria,Bacillus anthracis,Sterne,,Spore,,LP,,2,30,Y,N,,Blatchley III et al. 2005,N
+Bacteria,Bacillus anthracis,Ames,,Spore,,LP,,1,25,Y,Y,,Rose & O’Connell 2009,N
+Bacteria,Bacillus anthracis,Ames,,Spore,,LP,,2,40,Y,Y,,Rose & O’Connell 2009,N
+Bacteria,Bacillus anthracis,Ames,,Spore,,LP,,3,120,Y,Y,,Rose & O’Connell 2009,N
+Bacteria,Bacillus anthracis,Sterne,soil extract peptone-beef extract agar,Spore,,LP,,1,23,Y,Y,,Rose & O’Connell 2009,N
+Bacteria,Bacillus anthracis,Sterne,soil extract peptone-beef extract agar,Spore,,LP,,2,40,Y,Y,,Rose & O’Connell 2009,N
+Bacteria,Bacillus anthracis,Sterne,soil extract peptone-beef extract agar,Spore,,LP,,3,120,Y,Y,,Rose & O’Connell 2009,N
+Bacteria,Bacillus anthracis,Sterne,Schaeffer’s sporulation medium,Spore,,LP,,1,23,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Bacillus anthracis,Sterne,Schaeffer’s sporulation medium,Spore,,LP,,2,36,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Bacillus anthracis,Sterne,Schaeffer’s sporulation medium,Spore,,LP,,3,80,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,1,22,Y,N,,Zhang et al. 2014,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,2,38,Y,N,,Zhang et al. 2014,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,3,55,Y,N,,Zhang et al. 2014,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,4,71,Y,N,,Zhang et al. 2014,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,1,10,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,2,16,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,3,26,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,4,39,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,UV-LED,260,1,6,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,UV-LED,260,2,10,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,UV-LED,260,3,14,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,UV-LED,260,4,19,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus atrophaeus,ATCC 9372,,Spore,,UV-LED,260,5,31,Y,N,,Sholtes et al. 2016,N
+Bacteria,Bacillus cereus,ATCC 11778,,Spore,,Excimer,222,1,25,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Spore,,Excimer,222,2,43,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Spore,,Excimer,222,3,69,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Spore,,LP,,1,52,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Spore,,LP,,2,93,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Spore,,LP,,3,140,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,T,,Spore,,LP,,1,23,Y,N,,Blatchley III et al. 2005,N
+Bacteria,Bacillus cereus,T,,Spore,,LP,,2,30,Y,N,,Blatchley III et al. 2005,N
+Bacteria,Bacillus cereus,T,,Spore,,LP,,3,35,Y,N,,Blatchley III et al. 2005,N
+Bacteria,Bacillus cereus,T,,Spore,,LP,,4,40,Y,N,,Blatchley III et al. 2005,N
+Bacteria,Bacillus megaterium,QMB 1551,,Spore,,,265,1,28,N,N,,Donnellan & Stafford 1968,N
+Bacteria,Bacillus megaterium,QMB 1551,,Spore,,,265,2,42,N,N,,Donnellan & Stafford 1968,N
+Bacteria,Bacillus megaterium,QMB 1551,,Spore,,,265,3,55,N,N,,Donnellan & Stafford 1968,N
+Bacteria,Bacillus pumilus,ASFUVRC,,Spore,,Filtered MP,258,1,87,Y,N,,Beck et al. 2015,N
+Bacteria,Bacillus pumilus,ASFUVRC,,Spore,,Filtered MP,258,2,130,Y,N,,Beck et al. 2015,N
+Bacteria,Bacillus pumilus,ASFUVRC,,Spore,,Filtered MP,258,3,184,Y,N,,Beck et al. 2015,N
+Bacteria,Bacillus pumilus,ASFUVRC,,Spore,,LP,,1,173,Y,N,,Boczek et al. 2016,N
+Bacteria,Bacillus pumilus,ASFUVRC,,Spore,,LP,,2,348,Y,N,,Boczek et al. 2016,N
+Bacteria,Bacillus pumilus,ATCC 27142,,Spore,,LP,,1,68,Y,N,,Boczek et al. 2016,N
+Bacteria,Bacillus pumilus,ATCC 27142,,Spore,,LP,,2,138,Y,N,,Boczek et al. 2016,N
+Bacteria,Bacillus pumilus,ATCC 27142,,Spore,,LP,,3,204,Y,N,,Boczek et al. 2016,N
+Bacteria,Bacillus pumilus,ATCC 27142,,Spore,,LP,,4,272,Y,N,,Boczek et al. 2016,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,12,Y,N,,Quails & Johnson 1983,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,18,Y,N,,Quails & Johnson 1983,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,24,Y,N,,Quails & Johnson 1983,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,30,Y,N,,Quails & Johnson 1983,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,5,36,Y,N,,Quails & Johnson 1983,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,36,Y,N,,Chang et al. 1985,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,48,Y,N,,Chang et al. 1985,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,59,Y,N,,Chang et al. 1985,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,77,Y,N,,Chang et al. 1985,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,28,Y,N,,Sommer et al. 1998,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,40,Y,N,,Sommer et al. 1998,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,50,Y,N,,Sommer et al. 1998,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,19,Y,N,,Sommer et al. 1999,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,40,Y,N,,Sommer et al. 1999,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,60,Y,N,,Sommer et al. 1999,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,81,Y,N,,Sommer et al. 1999,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,31,Y,N,,Cabaj et al. 2002,Y
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,47,Y,N,,Cabaj et al. 2002,Y
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,64,Y,N,,Cabaj et al. 2002,Y
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,80,Y,N,,Cabaj et al. 2002,Y
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,25,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,39,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,50,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,60,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,24,Y,N,,"Mamane-Gravetz & Linden
+2004",N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,35,Y,N,,"Mamane-Gravetz & Linden
+2004",N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,47,Y,N,,"Mamane-Gravetz & Linden
+2004",N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,79,Y,N,,"Mamane-Gravetz & Linden
+2004",N
+Bacteria,Bacillus subtilis,ATCC 6633 ,surface cultured,Spore,,LP,,1,11,Y,N,,Mamane-Gravetz et al. 2005,N
+Bacteria,Bacillus subtilis,ATCC 6633 ,surface cultured,Spore,,LP,,2,18,Y,N,,Mamane-Gravetz et al. 2005,N
+Bacteria,Bacillus subtilis,ATCC 6633 ,surface cultured,Spore,,LP,,3,24,Y,N,,Mamane-Gravetz et al. 2005,N
+Bacteria,Bacillus subtilis,ATCC 6633 ,surface cultured,Spore,,LP,,4,31,Y,N,,Mamane-Gravetz et al. 2005,N
+Bacteria,Bacillus subtilis,ATCC 6633,liquid cultured,Spore,,LP,,1,13,Y,N,,Bohrerova et al. 2006,Y
+Bacteria,Bacillus subtilis,ATCC 6633,liquid cultured,Spore,,LP,,2,23,Y,N,,Bohrerova et al. 2006,Y
+Bacteria,Bacillus subtilis,ATCC 6633,liquid cultured,Spore,,LP,,3,33,Y,N,,Bohrerova et al. 2006,Y
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,1,9,Y,N,,Bohrerova et al. 2006,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,2,15,Y,N,,Bohrerova et al. 2006,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,Excimer,222,1,7,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,Excimer,222,2,12,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,Excimer,222,3,18,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,Excimer,222,4,23,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,1,19,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,2,24,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,3,30,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,4,35,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,,282,1,19,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,,282,2,29,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,,282,3,39,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,,282,4,49,Y,N,,Pennell et al. 2008,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,9,Y,N,,Bichae et al. 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,17,Y,N,,Bichae et al. 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,26,Y,N,,Bichae et al. 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,34,Y,N,,Bichae et al. 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,21,Y,N,,Chen et al. 2009,Y
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,32,Y,N,,Chen et al. 2009,Y
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,43,Y,N,,Chen et al. 2009,Y
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,55,Y,N,,Chen et al. 2009,Y
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,1,18,Y,N,,Sun & Liu 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,2,39,Y,N,,Sun & Liu 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,3,61,Y,N,,Sun & Liu 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,4,82,Y,N,,Sun & Liu 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,24,Y,N,,Mamane et al. 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,37,Y,N,,Mamane et al. 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,51,Y,N,,Mamane et al. 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,80,Y,N,,Mamane et al. 2009,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,1,26,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,2,40,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,3,55,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,LP,,4,69,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,Excimer,222,1,13,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,Excimer,222,2,21,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,Excimer,222,3,30,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,Excimer,222,4,38,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,Excimer,172,1,435,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,Excimer,172,2,869,Y,N,,Wang et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,269,1,2,Y,N,,Würtele et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,269,2,10,Y,N,,Würtele et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,269,3,17,Y,N,,Würtele et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,269,4,25,Y,N,,Würtele et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,282,1,3,Y,N,,Würtele et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,282,2,11,Y,N,,Würtele et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,282,3,18,Y,N,,Würtele et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,282,4,26,Y,N,,Würtele et al. 2010,N
+Bacteria,Bacillus subtilis,ATCC 6051,,Spore,,LP,,1,8,Y,N,,Jin et al. 2006,N
+Bacteria,Bacillus subtilis,ATCC 6051,,Spore,,LP,,2,13,Y,N,,Jin et al. 2006,N
+Bacteria,Bacillus subtilis,ATCC 6051,,Spore,,LP,,3,17,Y,N,,Jin et al. 2006,N
+Bacteria,Bacillus subtilis,ATCC 6051,,Spore,,LP,,4,20,Y,N,,Jin et al. 2006,N
+Bacteria,Bacillus subtilis,TKJ 6312,,Spore,,LP,,1,0.7,Y,N,,Sommer et al. 1999,N
+Bacteria,Bacillus subtilis,TKJ 6312,,Spore,,LP,,2,1.5,Y,N,,Sommer et al. 1999,N
+Bacteria,Bacillus subtilis,TKJ 6312,,Spore,,LP,,3,2.3,Y,N,,Sommer et al. 1999,N
+Bacteria,Bacillus subtilis,TKJ 6312,,Spore,,LP,,4,3.7,Y,N,,Sommer et al. 1999,N
+Bacteria,Bacillus subtilis,WN624,,Spore,,LP,,1,25,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus subtilis,WN624,,Spore,,LP,,2,36,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus subtilis,WN624,,Spore,,LP,,3,49,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Bacillus subtilis,WN624,,Spore,,LP,,4,60,Y,N,,Nicholson & Galeano 2003,N
+Bacteria,Cylindrospermum,,,Spore,,LP,,1,14,N,N,,Singh 1975,N
+Bacteria,Cylindrospermum,,,Spore,,LP,,2,26,N,N,,Singh 1975,N
+Bacteria,Cylindrospermum,,,Spore,,LP,,3,43,N,N,,Singh 1975,N
+Bacteria,Clostridium pasteurianum,ATCC 6013,,Spore,,LP,,1,3.4,Y,N,,Clauß 2006,N
+Bacteria,Clostridium pasteurianum,ATCC 6013,,Spore,,LP,,2,5.3,Y,N,,Clauß 2006,N
+Bacteria,Clostridium pasteurianum,ATCC 6013,,Spore,,LP,,3,6.7,Y,N,,Clauß 2006,N
+Bacteria,Clostridium pasteurianum,ATCC 6013,,Spore,,LP,,4,8.4,Y,N,,Clauß 2006,N
+Bacteria,Clostridium pasteurianum,ATCC 6013,,Spore,,Excimer,222,1,4.3,Y,N,,Clauß 2006,N
+Bacteria,Clostridium pasteurianum,ATCC 6013,,Spore,,Excimer,222,2,6.1,Y,N,,Clauß 2006,N
+Bacteria,Clostridium pasteurianum,ATCC 6013,,Spore,,Excimer,222,3,7.9,Y,N,,Clauß 2006,N
+Bacteria,Clostridium pasteurianum,ATCC 6013,,Spore,,Excimer,222,4,9.6,Y,N,,Clauß 2006,N
+Protozoa,Encephalitozoon intestinalis ,,,Spore,,LP,,1,2.8,Y,N,,John et al. 2003,N
+Protozoa,Encephalitozoon intestinalis ,,,Spore,,LP,,2,5.6,Y,N,,John et al. 2003,N
+Protozoa,Encephalitozoon intestinalis ,,,Spore,,LP,,3,8.4,Y,N,,John et al. 2003,N
+Protozoa,Encephalitozoon intestinalis,,,Microsporidia,,LP & MP,,1,3,Y,N,,Huffman et al. 2002,N
+Protozoa,Encephalitozoon intestinalis,,,Microsporidia,,LP & MP,,2,3,Y,N,,Huffman et al. 2002,N
+Protozoa,Encephalitozoon intestinalis,,,Microsporidia,,LP & MP,,3,6,Y,N,,Huffman et al. 2002,N
+Bacteria,Fischeralla muscicola,,,Spore,,LP,,1,189,N,N,,Singh 1975,N
+Bacteria,Penicillium expansum,ATCC 36200,,Spore,,LP,,1,11,Y,N,,Clauß 2006,N
+Bacteria,Penicillium expansum,ATCC 36200,,Spore,,LP,,2,38,Y,N,,Clauß 2006,N
+Bacteria,Penicillium expansum,ATCC 36200,,Spore,,LP,,3,49,Y,N,,Clauß 2006,N
+Bacteria,Penicillium expansum,ATCC 36200,,Spore,,LP,,4,65,Y,N,,Clauß 2006,N
+Bacteria,Penicillium expansum,ATCC 36200,,Spore,,Excimer,222,1,22,Y,N,,Clauß 2006,N
+Bacteria,Penicillium expansum,ATCC 36200,,Spore,,Excimer,222,2,33,Y,N,,Clauß 2006,N
+Bacteria,Penicillium expansum,ATCC 36200,,Spore,,Excimer,222,3,42,Y,N,,Clauß 2006,N
+Bacteria,Streptomyces griseus,ATCC 10137,,Spore,,LP,,1,8.5,Y,N,,Clauß 2006,N
+Bacteria,Streptomyces griseus,ATCC 10137,,Spore,,LP,,2,13,Y,N,,Clauß 2006,N
+Bacteria,Streptomyces griseus,ATCC 10137,,Spore,,LP,,3,15,Y,N,,Clauß 2006,N
+Bacteria,Streptomyces griseus,ATCC 10137,,Spore,,LP,,4,18,Y,N,,Clauß 2006,N
+Bacteria,Streptomyces griseus,ATCC 10137,,Spore,,Excimer,222,1,13,Y,N,,Clauß 2006,N
+Bacteria,Streptomyces griseus,ATCC 10137,,Spore,,Excimer,222,2,17,Y,N,,Clauß 2006,N
+Bacteria,Streptomyces griseus,ATCC 10137,,Spore,,Excimer,222,3,20,Y,N,,Clauß 2006,N
+Bacteria,Streptomyces griseus,ATCC 10137,,Spore,,Excimer,222,4,26,Y,N,,Clauß 2006,N
+Bacteria,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,LP,,1,55,Y,N,,Clauß 2006,N
+Bacteria,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,LP,,2,90,Y,N,,Clauß 2006,N
+Bacteria,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,LP,,3,115,Y,N,,Clauß 2006,N
+Bacteria,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,LP,,4,140,Y,N,,Clauß 2006,N
+Bacteria,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,Excimer,222,1,25,Y,N,,Clauß 2006,N
+Bacteria,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,Excimer,222,2,38,Y,N,,Clauß 2006,N
+Bacteria,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,Excimer,222,3,46,Y,N,,Clauß 2006,N
+Bacteria,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,Excimer,222,4,55,Y,N,,Clauß 2006,N
+Bacteria,Aeromonas hydrophila,ATCC 7966,,Veg,,LP,,1,1.1,Y,N,,Wilson et al. 1992,N
+Bacteria,Aeromonas hydrophila,ATCC 7966,,Veg,,LP,,2,2.5,Y,N,,Wilson et al. 1992,N
+Bacteria,Aeromonas hydrophila,ATCC 7966,,Veg,,LP,,3,4,Y,N,,Wilson et al. 1992,N
+Bacteria,Aeromonas hydrophila,ATCC 7966,,Veg,,LP,,4,5.5,Y,N,,Wilson et al. 1992,N
+Bacteria,Aeromonas hydrophila,ATCC 7966,,Veg,,LP,,5,6.9,Y,N,,Wilson et al. 1992,N
+Bacteria,Aeromonas hydrophila,ATCC 7966,,Veg,,LP,,6,8.4,Y,N,,Wilson et al. 1992,N
+Bacteria,Aeromonas salmonicida,AL 2017,,Veg,,LP,,1,1.5,Y,N,,Liltved & Landfald 1996,N
+Bacteria,Aeromonas salmonicida,AL 2017,,Veg,,LP,,2,2.7,Y,N,,Liltved & Landfald 1996,N
+Bacteria,Aeromonas salmonicida,AL 2017,,Veg,,LP,,3,3.1,Y,N,,Liltved & Landfald 1996,N
+Bacteria,Aeromonas salmonicida,AL 2017,,Veg,,LP,,4,5.9,Y,N,,Liltved & Landfald 1996,N
+Bacteria,Arthrobacter nicotinovorans,ATCC 49919,,Veg,,LP,,1,8,Y,N,,Clauß 2006,N
+Bacteria,Arthrobacter nicotinovorans,ATCC 49919,,Veg,,LP,,2,10,Y,N,,Clauß 2006,N
+Bacteria,Arthrobacter nicotinovorans,ATCC 49919,,Veg,,LP,,3,12,Y,N,,Clauß 2006,N
+Bacteria,Arthrobacter nicotinovorans,ATCC 49919,,Veg,,LP,,4,14,Y,N,,Clauß 2006,N
+Bacteria,Arthrobacter nicotinovorans,ATCC 49919,,Veg,,Excimer,222,1,10,Y,N,,Clauß 2006,N
+Bacteria,Arthrobacter nicotinovorans,ATCC 49919,,Veg,,Excimer,222,2,15,Y,N,,Clauß 2006,N
+Bacteria,Arthrobacter nicotinovorans,ATCC 49919,,Veg,,Excimer,222,3,18,Y,N,,Clauß 2006,N
+Bacteria,Arthrobacter nicotinovorans,ATCC 49919,,Veg,,Excimer,222,4,20,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Veg,,LP,,1,6,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Veg,,LP,,2,7,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Veg,,LP,,3,9,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus,ATCC 11778,,Veg,,LP,,4,12,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus ,ATCC 11778,,Veg,,Excimer,222,1,9,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus ,ATCC 11778,,Veg,,Excimer,222,2,11,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus ,ATCC 11778,,Veg,,Excimer,222,3,14,Y,N,,Clauß 2006,N
+Bacteria,Bacillus cereus ,ATCC 11778,,Veg,,Excimer,222,4,18,Y,N,,Clauß 2006,N
+Bacteria,Bacillus megaterium, QMB 1551,,Veg,,,265,1,4.6,N,N,,"Donnellan & Stafford
+1968",N
+Bacteria,Burkholderia mallei,M9,,Veg,,LP,,1,1,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia mallei,M9,,Veg,,LP,,2,2.4,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia mallei,M9,,Veg,,LP,,3,3.8,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia mallei,M9,,Veg,,LP,,4,5.2,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia mallei,M13,,Veg,,LP,,1,1.2,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia mallei,M13,,Veg,,LP,,2,2.7,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia mallei,M13,,Veg,,LP,,3,4.1,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia mallei,M13,,Veg,,LP,,4,5.5,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella melitensis,ATCC 23456,,Veg,,LP,,1,2.8,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella melitensis,ATCC 23456,,Veg,,LP,,2,5.3,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella melitensis,ATCC 23456,,Veg,,LP,,3,7.8,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella melitensis,ATCC 23456,,Veg,,LP,,4,10.3,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella melitensis,IL195,,Veg,,LP,,1,3.7,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella melitensis,IL195,,Veg,,LP,,2,5.8,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella melitensis,IL195,,Veg,,LP,,3,7.8,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella melitensis,IL195,,Veg,,LP,,4,9.9,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia pseudomallei,ATCC 11688,,Veg,,LP,,1,1.7,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia pseudomallei,ATCC 11688,,Veg,,LP,,2,3.5,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia pseudomallei,ATCC 11688,,Veg,,LP,,3,5.5,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia pseudomallei,ATCC 11688,,Veg,,LP,,4,7.4,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia pseudomallei,CA650,,Veg,,LP,,1,1.4,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia pseudomallei,CA650,,Veg,,LP,,2,2.8,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia pseudomallei,CA650,,Veg,,LP,,3,4.3,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Burkholderia pseudomallei,CA650,,Veg,,LP,,4,5.7,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella suis,KS528,,Veg,,LP,,1,2.7,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella suis,KS528,,Veg,,LP,,2,5.3,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella suis,KS528,,Veg,,LP,,3,7.9,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella suis,KS528,,Veg,,LP,,4,10.5,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella suis,MO 562,,Veg,,LP,,1,1.7,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella suis,MO 562,,Veg,,LP,,2,3.6,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella suis,MO 562,,Veg,,LP,,3,5.6,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Brucella suis,MO 562,,Veg,,LP,,4,7.5,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Campylobacter jejuni,ATCC 43429,,Veg,,LP,,1,1,Y,N,,Wilson et al. 1992,N
+Bacteria,Campylobacter jejuni,ATCC 43429,,Veg,,LP,,2,2.1,Y,N,,Wilson et al. 1992,N
+Bacteria,Campylobacter jejuni,ATCC 43429,,Veg,,LP,,3,3.4,Y,N,,Wilson et al. 1992,N
+Bacteria,Campylobacter jejuni,ATCC 43429,,Veg,,LP,,4,4.6,Y,N,,Wilson et al. 1992,N
+Bacteria,Campylobacter jejuni,ATCC 43429,,Veg,,LP,,5,5.8,Y,N,,Wilson et al. 1992,N
+Bacteria,Campylobacter jejuni,biotype 1 strain 709/84,,Veg,,LP,,1,0.8,Y,N,,Butler et al. 1987,N
+Bacteria,Campylobacter jejuni,biotype 1 strain 709/84,,Veg,,LP,,2,1.3,Y,N,,Butler et al. 1987,N
+Bacteria,Campylobacter jejuni,biotype 1 strain 709/84,,Veg,,LP,,3,1.7,Y,N,,Butler et al. 1987,N
+Bacteria,Campylobacter jejuni,biotype 1 strain 709/84,,Veg,,LP,,4,2.1,Y,N,,Butler et al. 1987,N
+Bacteria,Citrobacter diversus,,,Veg,,LP,,1,5,Y,N,,Giese & Darby 2000,N
+Bacteria,Citrobacter diversus,,,Veg,,LP,,2,7,Y,N,,Giese & Darby 2000,N
+Bacteria,Citrobacter diversus,,,Veg,,LP,,3,9,Y,N,,Giese & Darby 2000,N
+Bacteria,Citrobacter diversus,,,Veg,,LP,,4,11.5,Y,N,,Giese & Darby 2000,N
+Bacteria,Citrobacter diversus,,,Veg,,LP,,5,13,Y,N,,Giese & Darby 2000,N
+Bacteria,Citrobacter freundii,,,Veg,,LP,,1,5,Y,N,,Giese & Darby 2000,N
+Bacteria,Citrobacter freundii,,,Veg,,LP,,2,9,Y,N,,Giese & Darby 2000,N
+Bacteria,Citrobacter freundii,,,Veg,,LP,,3,13,Y,N,,Giese & Darby 2000,N
+Bacteria,Corynebacterium diphtheriae,,,Veg,,LP,,1,3.4,N,N,,Sharp 1939,N
+Bacteria,Deinococcus radiodurans,ATCC 13939,,Veg,,LP,,1,113,Y,N,,Clauß 2006,N
+Bacteria,Deinococcus radiodurans,ATCC 13939,,Veg,,LP,,2,142,Y,N,,Clauß 2006,N
+Bacteria,Deinococcus radiodurans,ATCC 13939,,Veg,,LP,,3,170,Y,N,,Clauß 2006,N
+Bacteria,Deinococcus radiodurans,ATCC 13939,,Veg,,LP,,4,205,Y,N,,Clauß 2006,N
+Bacteria,Deinococcus radiodurans,ATCC 13939,,Veg,,Excimer,222,1,44,Y,N,,Clauß 2006,N
+Bacteria,Deinococcus radiodurans,ATCC 13939,,Veg,,Excimer,222,2,57,Y,N,,Clauß 2006,N
+Bacteria,Deinococcus radiodurans,ATCC 13939,,Veg,,Excimer,222,3,91,Y,N,,Clauß 2006,N
+Bacteria,Eberthella typhosa,,,Veg,,LP,,1,2.1,N,N,,Sharp 1939,N
+Bacteria,Enterococcus faecium,,,Veg,,LP,,1,7,Y,N,Vancomycin,"McKinney & Pruden
+2012",N
+Bacteria,Enterococcus faecium,,,Veg,,LP,,2,9,Y,N,Vancomycin,"McKinney & Pruden
+2012",N
+Bacteria,Enterococcus faecium,,,Veg,,LP,,3,11,Y,N,Vancomycin,"McKinney & Pruden
+2012",N
+Bacteria,Enterococcus faecium,,,Veg,,LP,,4,13,Y,N,Vancomycin,"McKinney & Pruden
+2012",N
+Bacteria,Enterococcus faecium,,,Veg,,LP,,5,15,Y,N,Vancomycin,"McKinney & Pruden
+2012",N
+Bacteria,Enterococcus faecalis,ATCC27285,,Veg,,LP,,1,3.7,Y,Y,,"Moreno-Andrés et al.
+2016",N
+Bacteria,Enterococcus faecalis,ATCC27285,,Veg,,LP,,2,8,Y,Y,,"Moreno-Andrés et al.
+2016",N
+Bacteria,Enterococcus faecalis,ATCC27285,,Veg,,LP,,3,14,Y,Y,,"Moreno-Andrés et al.
+2016",N
+Bacteria,Enterococcus faecalis,DSM 20478,,Veg,,LP,,1,7.1,Y,Y,,Chen et al. 2015,N
+Bacteria,Enterococcus faecalis,DSM 20478,,Veg,,LP,,2,8.7,Y,Y,,Chen et al. 2015,N
+Bacteria,Enterococcus faecalis,DSM 20478,,Veg,,LP,,3,13,Y,Y,,Chen et al. 2015,N
+Bacteria,Enterococcus faecalis,DSM 20478,,Veg,,MP,,1,5.5,Y,Y,,Chen et al. 2015,N
+Bacteria,Enterococcus faecalis,DSM 20478,,Veg,,MP,,2,7.6,Y,Y,,Chen et al. 2015,N
+Bacteria,Enterococcus faecalis,DSM 20478,,Veg,,MP,,3,12,Y,Y,,Chen et al. 2015,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,3,Y,N,,Chang et al. 1985,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,4.8,Y,N,,Chang et al. 1985,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,6.7,Y,N,,Chang et al. 1985,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,8.4,Y,N,,Chang et al. 1985,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,5,10,Y,N,,Chang et al. 1985,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,2.5,Y,N,,Harris et al. 1987,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,3,Y,N,,Harris et al. 1987,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,3.5,Y,N,,Harris et al. 1987,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,5,Y,N,,Harris et al. 1987,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,5,10,Y,N,,Harris et al. 1987,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,6,15,Y,N,,Harris et al. 1987,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,7,N,N,,Hoyer 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,8,N,N,,Hoyer 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,9,N,N,,Hoyer 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,11,N,N,,Hoyer 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,5,12,N,N,,Hoyer 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,3.4,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,5,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,6.7,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,8.3,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,5,10,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,3.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,4.7,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,5.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,6.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,5,7.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,6,9.6,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,2.5,Y,N,,Sommer et al. 2001,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,3,Y,N,,Sommer et al. 2001,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,3.5,Y,N,,Sommer et al. 2001,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,4.5,Y,N,,Sommer et al. 2001,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,5,5,Y,N,,Sommer et al. 2001,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,6,6,Y,N,,Sommer et al. 2001,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,3.9,Y,N,,Zimmer & Slawson 2002,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,5.4,Y,N,,Zimmer & Slawson 2002,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,6.8,Y,N,,Zimmer & Slawson 2002,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,8.2,Y,N,,Zimmer & Slawson 2002,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,5,9.7,Y,N,,Zimmer & Slawson 2002,N
+Algae,Tetraselmis suecica ,K0297,,Green algae,,LP,,1,370,N,N,,Olsen et al. 2015,N
+Algae,Tetraselmis suecica ,K0297,,Green algae,,LP,,2,540,N,N,,Olsen et al. 2015,N
+Algae,Tetraselmis suecica ,K0297,,Green algae,,LP,,3,720,N,N,,Olsen et al. 2015,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,3.3,Y,N,,Clauß et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,4.9,Y,N,,Clauß et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,5.7,Y,N,,Clauß et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,6.6,Y,N,,Clauß et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,Excimer,222,1,4.9,Y,N,,Clauß et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,Excimer,222,2,7.7,Y,N,,Clauß et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,Excimer,222,3,9.1,Y,N,,Clauß et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,Excimer,222,4,10.3,Y,N,,Clauß et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP or MP,,1,1.6,Y,N,,Bohrerova et al. 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP or MP,,2,3,Y,N,,Bohrerova et al. 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP or MP,,3,5,Y,N,,Bohrerova et al. 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP or MP,,4,6.5,Y,N,,Bohrerova et al. 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,4.7,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,6.2,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,7.2,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,4,8.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,5,9.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,MP,,1,2.5,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,MP,,2,4,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,MP,,3,4.7,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,MP,,4,5.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,MP,,5,6,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,MP,,6,7.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,1,4.1,Y,N,,Bowker et al. 2011,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,2,5.1,Y,N,,Bowker et al. 2011,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,LP,,3,6.2,Y,N,,Bowker et al. 2011,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,UV-LED,255,1,5.9,Y,N,,Bowker et al. 2011,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,UV-LED,255,2,7.9,Y,N,,Bowker et al. 2011,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,UV-LED,275,1,4.3,Y,N,,Bowker et al. 2011,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,UV-LED,275,2,6.2,Y,N,,Bowker et al. 2011,N
+Bacteria,Escherichia coli,ATCC 11229,,Veg,,UV-LED,275,3,7.7,Y,N,,Bowker et al. 2011,N
+Bacteria,Escherichia coli,ATCC 11303,,Veg,,LP,,1,4,Y,N,,Wu et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11303,,Veg,,LP,,2,6,Y,N,,Wu et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11303,,Veg,,LP,,3,9,Y,N,,Wu et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11303,,Veg,,LP,,4,10,Y,N,,Wu et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11303,,Veg,,LP,,5,13,Y,N,,Wu et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11303,,Veg,,LP,,6,15,Y,N,,Wu et al. 2005,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,LP,,1,1.1,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,LP,,2,2,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,LP,,3,3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,LP,,4,3.4,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,LP,,5,4,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,MP,,1,0.9,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,MP,,2,1.6,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,MP,,3,2.4,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,MP,,4,3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 11775,,Veg,,MP,,5,3.4,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,LP,,1,6.4,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,LP,,2,8.9,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,LP,,3,11,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,LP,,4,12,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,LP,,5,13,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,MP,,1,5,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,MP,,2,6.8,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,MP,,3,8.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,MP,,4,9.4,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,MP,,5,11,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 15597,,Veg,,MP,,6,12,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 25922,,Veg,,LP,,1,6,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 25922,,Veg,,LP,,2,6.5,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 25922,,Veg,,LP,,3,7,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 25922,,Veg,,LP,,4,8,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 25922,,Veg,,LP,,5,9,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 25922,,Veg,,LP,,6,10,Y,N,,Sommer et al. 1998,N
+Bacteria,Escherichia coli,ATCC 29425,,Veg,,LP,,1,5.4,Y,N,,"Chatterley & Linden
+2010",N
+Bacteria,Escherichia coli,ATCC 29425,,Veg,,LP,,2,8.5,Y,N,,"Chatterley & Linden
+2010",N
+Bacteria,Escherichia coli,ATCC 29425,,Veg,,LP,,3,20,Y,N,,"Chatterley & Linden
+2010",N
+Bacteria,Escherichia coli,ATCC 29425,,Veg,,UV-LED,265,1,3.6,Y,N,,"Chatterley & Linden
+2010",N
+Bacteria,Escherichia coli,ATCC 29425,,Veg,,UV-LED,265,2,5.9,Y,N,,"Chatterley & Linden
+2010",N
+Bacteria,Escherichia coli,ATCC 29425,,Veg,,UV-LED,265,3,17,Y,N,,"Chatterley & Linden
+2010",N
+Bacteria,Escherichia coli,ATCC 29425,,Veg,,UV-LED,265,4,20,Y,N,,"Chatterley & Linden
+2010",N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,LP,,1,7.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,LP,,2,10,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,LP,,3,12,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,LP,,4,13,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,LP,,5,15,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,MP,,1,4.8,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,MP,,2,6.8,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,MP,,3,8.2,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,MP,,4,9,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,ATCC 700891,,Veg,,MP,,5,9.8,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,B,,Veg,,LP,,1,1,Y,N,,Shin et al. 2008,N
+Bacteria,Escherichia coli,B,,Veg,,LP,,2,2.4,Y,N,,Shin et al. 2008,N
+Bacteria,Escherichia coli,B,,Veg,,LP,,3,4.4,Y,N,,Shin et al. 2008,N
+Bacteria,Escherichia coli,B,,Veg,,LP,,4,6,Y,N,,Shin et al. 2008,N
+Bacteria,Escherichia coli,B,,Veg,,MP,,1,0.9,Y,N,,Shin et al. 2008,N
+Bacteria,Escherichia coli,B,,Veg,,MP,,2,2.1,Y,N,,Shin et al. 2008,N
+Bacteria,Escherichia coli,B,,Veg,,MP,,3,4.2,Y,N,,Shin et al. 2008,N
+Bacteria,Escherichia coli,B,,Veg,,MP,,4,6,Y,N,,Shin et al. 2008,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,LP,,1,1.2,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,LP,,2,3,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,LP,,3,4.7,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,LP,,4,6.5,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,LP,,5,8.2,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,LP,,6,10,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,UV-LED,260,1,1.2,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,UV-LED,260,2,3,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,UV-LED,260,3,4.7,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,UV-LED,260,4,6.5,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,UV-LED,260,5,8.2,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,B ATCC 13033,,Veg,,UV-LED,260,6,10,Y,N,,Sholtes et al. 2016,N
+Bacteria,Escherichia coli,C,,Veg,,LP,,1,2,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,C,,Veg,,LP,,2,3,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,C,,Veg,,LP,,3,4,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,C,,Veg,,LP,,4,5.6,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,C,,Veg,,LP,,5,6.5,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,C,,Veg,,LP,,6,8,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,C3000,,Veg,,LP or MP,,1,3,Y,N,,Eischeid & Linden 2007,N
+Bacteria,Escherichia coli,C3000,,Veg,,LP or MP,,2,4.3,Y,N,,Eischeid & Linden 2007,N
+Bacteria,Escherichia coli,C3000,,Veg,,LP or MP,,3,5.5,Y,N,,Eischeid & Linden 2007,N
+Bacteria,Escherichia coli,C3000,,Veg,,LP or MP,,4,7,Y,N,,Eischeid & Linden 2007,N
+Bacteria,Escherichia coli,CGMCC 1.3373,,Veg,,LP,,1,3.1,Y,N,,Guo et al. 2009,N
+Bacteria,Escherichia coli,CGMCC 1.3373,,Veg,,LP,,2,5.9,Y,N,,Guo et al. 2009,N
+Bacteria,Escherichia coli,CGMCC 1.3373,,Veg,,LP,,3,8,Y,N,,Guo et al. 2009,N
+Bacteria,Escherichia coli,CGMCC 1.3373,,Veg,,LP,,4,13,Y,N,,Guo et al. 2009,N
+Bacteria,Escherichia coli,CGMCC 1.3373,,Veg,,MP,,1,3.1,Y,N,,Guo et al. 2009,N
+Bacteria,Escherichia coli,CGMCC 1.3373,,Veg,,MP,,2,5.9,Y,N,,Guo et al. 2009,N
+Bacteria,Escherichia coli,CGMCC 1.3373,,Veg,,MP,,3,9.6,Y,N,,Guo et al. 2009,N
+Bacteria,Escherichia coli,CGMCC 1.3373,,Veg,,MP,,4,13,Y,N,,Guo et al. 2009,N
+Bacteria,Escherichia coli,CN13,,Veg,,XeBr,282,1,5.5,N,N,,Matafonova et al. 2012,N
+Bacteria,Escherichia coli,CN13,,Veg,,XeBr,282,2,7.5,N,N,,Matafonova et al. 2012,N
+Bacteria,Escherichia coli,CN13,,Veg,,XeBr,282,3,9.6,N,N,,Matafonova et al. 2012,N
+Bacteria,Escherichia coli,CN13,,Veg,,XeBr,282,4,12,N,N,,Matafonova et al. 2012,N
+Bacteria,Escherichia coli,K12,,Veg,,LP,,1,1.1,N,N,,Qiu et al. 2004,N
+Bacteria,Escherichia coli,K12,,Veg,,LP,,2,1.9,N,N,,Qiu et al. 2004,N
+Bacteria,Escherichia coli,K12,,Veg,,LP,,3,2.6,N,N,,Qiu et al. 2004,N
+Bacteria,Escherichia coli,K12,,Veg,,LP,,4,3.4,N,N,,Qiu et al. 2004,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,1,2,Y,N,,Oguma et al. 2002,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,2,4,Y,N,,Oguma et al. 2002,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,3,6,Y,N,,Oguma et al. 2002,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,4,7,Y,N,,Oguma et al. 2002,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,5,9,Y,N,,Oguma et al. 2002,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,1,1.5,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,2,2,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,3,3.5,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,4,4.2,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,5,5.5,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,6,6.2,Y,N,,Otaki et al. 2003,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,1,2.2,Y,N,,Oguma et al. 2004,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,2,4.4,Y,N,,Oguma et al. 2004,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,3,6.7,Y,N,,Oguma et al. 2004,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,4,8.9,Y,N,,Oguma et al. 2004,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,5,11,Y,N,,Oguma et al. 2004,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,265,1,2.6,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,265,2,4.7,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,265,3,6.6,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,265,4,9,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,265,5,12,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,280,1,3.4,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,280,2,6.9,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,280,3,10,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,280,4,14,Y,N,,Oguma et al. 2013,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,1,1.9,Y,N,,Rattanakul et al. 2014,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,2,4,Y,N,,Rattanakul et al. 2014,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,3,6,Y,N,,Rattanakul et al. 2014,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,4,8,Y,N,,Rattanakul et al. 2014,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,285,1,7.8,Y,N,,Oguma et al. 2015,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,285,2,13,Y,N,,Oguma et al. 2015,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,285,3,16,Y,N,,Oguma et al. 2015,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,285,4,23,Y,N,,Oguma et al. 2015,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,285,5,34,Y,N,,Oguma et al. 2015,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,1,2,Y,N,,Oguma et al. 2001,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,2,4,Y,N,,Oguma et al. 2001,N
+Bacteria,Escherichia coli,K12 IFO 3301,,Veg,,LP,,3,6,Y,N,,Oguma et al. 2001,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,LP,,1,5.9,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,LP,,2,8,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,LP,,3,9.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,LP,,4,10.5,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,LP,,5,12,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,MP,,1,4.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,MP,,2,6.2,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,MP,,3,7.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 9481,,Veg,,MP,,4,8.6,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,LP,,1,2.8,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,LP,,2,4.4,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,LP,,3,5.6,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,LP,,4,6.6,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,LP,,5,7.6,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,MP,,1,2.5,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,MP,,2,4.3,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,MP,,3,5.1,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,MP,,4,6,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,MP,,5,6.8,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,NBIMB 10083,,Veg,,MP,,6,7.6,Y,N,,Quek & Hu 2008,N
+Bacteria,Escherichia coli,OP50,,Veg,,LP,,1,2,Y,N,,Bichai et al. 2009,N
+Bacteria,Escherichia coli,OP50,,Veg,,LP,,2,4.4,Y,N,,Bichai et al. 2009,N
+Bacteria,Escherichia coli,OP50,,Veg,,LP,,3,6.7,Y,N,,Bichai et al. 2009,N
+Bacteria,Escherichia coli,OP50,,Veg,,LP,,4,9.1,Y,N,,Bichai et al. 2009,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,1,1.5,N,N,,Tosa & Hirata 1999,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,2,3,N,N,,Tosa & Hirata 1999,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,3,4.5,N,N,,Tosa & Hirata 1999,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,4,6,N,N,,Tosa & Hirata 1999,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,1,2,N,N,,Yaun et al. 2003,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,2,2,N,N,,Yaun et al. 2003,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,3,2.5,N,N,,Yaun et al. 2003,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,4,4,N,N,,Yaun et al. 2003,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,5,8,N,N,,Yaun et al. 2003,N
+Bacteria,Escherichia coli,O157:H7,,Veg,,LP,,6,17,N,N,,Yaun et al. 2003,N
+Bacteria,Escherichia coli,O157:H7 ATCC 43894,,Veg,,LP,,1,1.4,Y,N,,Wilson et al. 1992,N
+Bacteria,Escherichia coli,O157:H7 ATCC 43894,,Veg,,LP,,2,2.8,Y,N,,Wilson et al. 1992,N
+Bacteria,Escherichia coli,O157:H7 ATCC 43894,,Veg,,LP,,3,4.2,Y,N,,Wilson et al. 1992,N
+Bacteria,Escherichia coli,O157:H7 ATCC 43894,,Veg,,LP,,4,5.5,Y,N,,Wilson et al. 1992,N
+Bacteria,Escherichia coli,O157:H7 ATCC 43894,,Veg,,LP,,5,6.9,Y,N,,Wilson et al. 1992,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29193,,Veg,,LP,,1,3.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29193,,Veg,,LP,,2,4.7,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29193,,Veg,,LP,,3,5.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29193,,Veg,,LP,,4,7,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29197,,Veg,,LP,,1,2.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29197,,Veg,,LP,,2,3,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29197,,Veg,,LP,,3,4.6,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29197,,Veg,,LP,,4,5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29197,,Veg,,LP,,5,5.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29199,,Veg,,LP,,1,0.4,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29199,,Veg,,LP,,2,0.7,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29199,,Veg,,LP,,3,1,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29199,,Veg,,LP,,4,1.1,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29199,,Veg,,LP,,5,1.3,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O157:H7 CCUG 29199,,Veg,,LP,,6,1.4,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O25:K98:NM,,Veg,,LP,,1,5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O25:K98:NM,,Veg,,LP,,2,7.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O25:K98:NM,,Veg,,LP,,3,9,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O25:K98:NM,,Veg,,LP,,4,10,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O25:K98:NM,,Veg,,LP,,5,12,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O26,,Veg,,LP,,1,5.4,N,N,,Tosa & Hirata 1999,N
+Bacteria,Escherichia coli,O26,,Veg,,LP,,2,8,N,N,,Tosa & Hirata 1999,N
+Bacteria,Escherichia coli,O26,,Veg,,LP,,3,10.5,N,N,,Tosa & Hirata 1999,N
+Bacteria,Escherichia coli,O26,,Veg,,LP,,4,12.8,N,N,,Tosa & Hirata 1999,N
+Bacteria,Escherichia coli,O50:H7,,Veg,,LP,,1,2.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O50:H7,,Veg,,LP,,2,3,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O50:H7,,Veg,,LP,,3,3.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O50:H7,,Veg,,LP,,4,4.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O50:H7,,Veg,,LP,,5,5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O50:H7,,Veg,,LP,,6,6,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O78:H11,,Veg,,LP,,1,4,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O78:H11,,Veg,,LP,,2,5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O78:H11,,Veg,,LP,,3,5.5,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O78:H11,,Veg,,LP,,4,6,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,O78:H11,,Veg,,LP,,5,7,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,145,,Veg,,LP,,1,0.8,Y,N,Ampicillin,Templeton et al. 2009,N
+Bacteria,Escherichia coli,145,,Veg,,LP,,2,1.9,Y,N,Ampicillin,Templeton et al. 2009,N
+Bacteria,Escherichia coli,145,,Veg,,LP,,3,3,Y,N,Ampicillin,Templeton et al. 2009,N
+Bacteria,Escherichia coli,145,,Veg,,LP,,4,4.7,Y,N,Ampicillin,Templeton et al. 2009,N
+Bacteria,Escherichia coli,18,,Veg,,LP,,1,1.5,Y,N,Trimethoprim,Templeton et al. 2009,N
+Bacteria,Escherichia coli,18,,Veg,,LP,,2,3,Y,N,Trimethoprim,Templeton et al. 2009,N
+Bacteria,Escherichia coli,18,,Veg,,LP,,3,4,Y,N,Trimethoprim,Templeton et al. 2009,N
+Bacteria,Escherichia coli,18,,Veg,,LP,,4,4.9,Y,N,Trimethoprim,Templeton et al. 2009,N
+Bacteria,Escherichia coli,SMS-3-5,,Veg,,LP,,1,3,Y,N,,"McKinney & Pruden
+2012",N
+Bacteria,Escherichia coli,SMS-3-5,,Veg,,LP,,2,5.1,Y,N,,"McKinney & Pruden
+2012",N
+Bacteria,Escherichia coli,SMS-3-5,,Veg,,LP,,3,6.5,Y,N,,"McKinney & Pruden
+2012",N
+Bacteria,Escherichia coli,SMS-3-5,,Veg,,LP,,4,7.6,Y,N,,"McKinney & Pruden
+2012",N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,1,2.7,Y,N,,Butler et al. 1987,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,2,4,Y,N,,Butler et al. 1987,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,3,5.3,Y,N,,Butler et al. 1987,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,4,6.6,Y,N,,Butler et al. 1987,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,1,4.4,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,2,6.2,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,3,7.3,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,4,8.1,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,5,9.2,Y,N,,Sommer et al. 2000,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,1,2,Y,N,,Hu et al. 2012,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,2,3.6,Y,N,,Hu et al. 2012,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,3,5.2,Y,N,,Hu et al. 2012,N
+Bacteria,Escherichia coli,wild type,,Veg,,LP,,4,6.8,Y,N,,Hu et al. 2012,N
+Bacteria,Faecal coliforms,,,Veg,,LP,,1,6,Y,N,,Maya et al. 2003,N
+Bacteria,Faecal coliforms,,,Veg,,LP,,2,9,Y,N,,Maya et al. 2003,N
+Bacteria,Faecal coliforms,,,Veg,,LP,,3,13,Y,N,,Maya et al. 2003,N
+Bacteria,Faecal coliforms,,,Veg,,LP,,4,22,Y,N,,Maya et al. 2003,N
+Bacteria,Francisella tularensis,LVS,,Veg,,LP,,1,1.3,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Francisella tularensis,LVS,,Veg,,LP,,2,3.1,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Francisella tularensis,LVS,,Veg,,LP,,3,4.8,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Francisella tularensis,LVS,,Veg,,LP,,4,6.6,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Francisella tularensis,NY98,,Veg,,LP,,1,1.4,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Francisella tularensis,NY98,,Veg,,LP,,2,3.8,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Francisella tularensis,NY98,,Veg,,LP,,3,6.3,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Francisella tularensis,NY98,,Veg,,LP,,4,8.7,Y,N,,Rose & O’Connell 2009,N
+Bacteria,Faecal streptococci,,,Veg,,LP,,1,9,Y,N,,Maya et al. 2003,N
+Bacteria,Faecal streptococci,,,Veg,,LP,,2,14,Y,N,,Maya et al. 2003,N
+Bacteria,Faecal streptococci,,,Veg,,LP,,3,22,Y,N,,Maya et al. 2003,N
+Bacteria,Faecal streptococci,,,Veg,,LP,,4,30,Y,N,,Maya et al. 2003,N
+Bacteria,Halobacterium elongata,ATCC 33173,,Veg,,LP,,1,0.4,N,N,,Martin et al. 2000,N
+Bacteria,Halobacterium elongata,ATCC 33173,,Veg,,LP,,2,0.7,N,N,,Martin et al. 2000,N
+Bacteria,Halobacterium elongata,ATCC 33173,,Veg,,LP,,3,1,N,N,,Martin et al. 2000,N
+Bacteria,Halobacterium salibarum,ATCC 43214,,Veg,,LP,,1,12,N,N,,Martin et al. 2000,N
+Bacteria,Halobacterium salibarum,ATCC 43214,,Veg,,LP,,2,15,N,N,,Martin et al. 2000,N
+Bacteria,Halobacterium salibarum,ATCC 43214,,Veg,,LP,,3,18,N,N,,Martin et al. 2000,N
+Bacteria,Halobacterium salibarum,ATCC 43214,,Veg,,LP,,4,20,N,N,,Martin et al. 2000,N
+Bacteria,Helicobacter pylori,Texas isolate,,Veg,,LP,,1,2.2,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,Texas isolate,,Veg,,LP,,2,3,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,Texas isolate,,Veg,,LP,,3,3.8,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,Texas isolate,,Veg,,LP,,4,4.6,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,Texas isolate,,Veg,,LP,,5,5.7,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,Texas isolate,,Veg,,LP,,6,6.6,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 43504,,Veg,,LP,,1,4.5,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 43504,,Veg,,LP,,2,5.7,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 43504,,Veg,,LP,,3,6.7,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 43504,,Veg,,LP,,4,7.5,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 43504,,Veg,,LP,,5,8,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 49503,,Veg,,LP,,1,1.7,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 49503,,Veg,,LP,,2,3.1,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 49503,,Veg,,LP,,3,4,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 49503,,Veg,,LP,,4,5.3,Y,N,,Hayes et al. 2006,N
+Bacteria,Helicobacter pylori,ATCC 49503,,Veg,,LP,,5,7,Y,N,,Hayes et al. 2006,N
+Bacteria,Klebsiella pneumoniae,,,Veg,,LP,,1,5,Y,N,,Giese & Darby 2000,N
+Bacteria,Klebsiella pneumoniae,,,Veg,,LP,,2,7,Y,N,,Giese & Darby 2000,N
+Bacteria,Klebsiella pneumoniae,,,Veg,,LP,,3,10,Y,N,,Giese & Darby 2000,N
+Bacteria,Klebsiella pneumoniae,,,Veg,,LP,,4,12,Y,N,,Giese & Darby 2000,N
+Bacteria,Klebsiella terrigena,ATCC 33257,,Veg,,LP,,1,3.6,Y,N,,Wilson et al. 1992,N
+Bacteria,Klebsiella terrigena,ATCC 33257,,Veg,,LP,,2,6.4,Y,N,,Wilson et al. 1992,N
+Bacteria,Klebsiella terrigena,ATCC 33257,,Veg,,LP,,3,9.3,Y,N,,Wilson et al. 1992,N
+Bacteria,Klebsiella terrigena,ATCC 33257,,Veg,,LP,,4,12,Y,N,,Wilson et al. 1992,N
+Bacteria,Klebsiella terrigena,ATCC 33257,,Veg,,LP,,5,15,Y,N,,Wilson et al. 1992,N
+Bacteria,Legionella longbeachae,ATCC 33462,,Veg,,LP,,1,1.4,Y,N,,"Cervero-Arago et al.
+2014",N
+Bacteria,Legionella longbeachae,ATCC 33462,,Veg,,LP,,2,3,Y,N,,"Cervero-Arago et al.
+2014",N
+Bacteria,Legionella longbeachae,ATCC 33462,,Veg,,LP,,3,4.7,Y,N,,"Cervero-Arago et al.
+2014",N
+Bacteria,Legionella longbeachae,ATCC 33462,,Veg,,LP,,4,6.3,Y,N,,"Cervero-Arago et al.
+2014",N
+Bacteria,Legionella pneumophila,Philadelphia 2,,Veg,,LP,,1,0.9,N,N,,Antopol & Ellner 1979,N
+Bacteria,Legionella pneumophila,Philadelphia 2,,Veg,,LP,,2,1.8,N,N,,Antopol & Ellner 1979,N
+Bacteria,Legionella pneumophila,Philadelphia 2,,Veg,,LP,,3,2.8,N,N,,Antopol & Ellner 1979,N
+Bacteria,Legionella pneumophila,Philadelphia 2,,Veg,,LP,,4,3.7,N,N,,Antopol & Ellner 1979,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,1,1.6,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,2,3.2,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,3,4.8,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,4,6.4,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,5,8,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,MP,,1,1.9,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,MP,,2,3.8,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,MP,,3,5.8,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,MP,,4,7.7,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,MP,,5,9.6,Y,N,,Oguma et al. 2004,N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,1,1.7,Y,N,,"Cervero-Arago et al.
+2014",N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,2,3,Y,N,,"Cervero-Arago et al.
+2014",N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,3,4.3,Y,N,,"Cervero-Arago et al.
+2014",N
+Bacteria,Legionella pneumophila,ATCC 33152,,Veg,,LP,,4,5.7,Y,N,,"Cervero-Arago et al.
+2014",N
+Bacteria,Legionella pneumophila,ATCC 33823,,Veg,,LP,,1,1.7,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,ATCC 33823,,Veg,,LP,,2,3.1,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,ATCC 33823,,Veg,,LP,,3,4.5,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,ATCC 33823,,Veg,,LP,,4,5.8,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,ATCC 43660,,Veg,,LP,,1,3,Y,N,,Wilson et al. 1992,N
+Bacteria,Legionella pneumophila,ATCC 43660,,Veg,,LP,,2,5,Y,N,,Wilson et al. 1992,N
+Bacteria,Legionella pneumophila,ATCC 43660,,Veg,,LP,,3,7.2,Y,N,,Wilson et al. 1992,N
+Bacteria,Legionella pneumophila,ATCC 43660,,Veg,,LP,,4,9.3,Y,N,,Wilson et al. 1992,N
+Bacteria,Legionella pneumophila,Sero group 1,,Veg,,LP,,1,1.7,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,Sero group 1,,Veg,,LP,,2,2.9,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,Sero group 1,,Veg,,LP,,3,4.2,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,Sero group 1,,Veg,,LP,,4,5.4,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,Sero group 8,,Veg,,LP,,1,1.8,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,Sero group 8,,Veg,,LP,,2,3.3,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,Sero group 8,,Veg,,LP,,3,4.7,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Legionella pneumophila,Sero group 8,,Veg,,LP,,4,6.1,Y,N,,"Cervero-Aragó et al.
+2014",N
+Bacteria,Leptospira,biflexa serovar patoc Patoc I,,Veg,,LP,,1,2.3,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,biflexa serovar patoc Patoc I,,Veg,,LP,,2,3.8,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,biflexa serovar patoc Patoc I,,Veg,,LP,,3,5.1,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,biflexa serovar patoc Patoc I,,Veg,,LP,,4,6.7,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,illini 3055,,Veg,,LP,,1,2.8,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,illini 3055,,Veg,,LP,,2,3.8,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,illini 3055,,Veg,,LP,,3,4.8,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,interrogans serovar Pomona Pomona,,Veg,,LP,,1,0.8,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,interrogans serovar Pomona Pomona,,Veg,,LP,,2,1.2,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Leptospira,interrogans serovar Pomona Pomona,,Veg,,LP,,3,1.7,N,N,,"Stamm and Charon
+1988",N
+Bacteria,Listeria monocytogenes,,,Veg,,LP,,1,2.2,N,N,,Collins 1971,N
+Bacteria,Listeria monocytogenes,,,Veg,,LP,,2,3,N,N,,Collins 1971,N
+Bacteria,Listeria monocytogenes,,,Veg,,LP,,3,3.2,N,N,,Collins 1971,N
+Bacteria,Listeria monocytogenes,,,Veg,,LP,,4,4.1,N,N,,Collins 1971,N
+Bacteria,Listeria monocytogenes,,,Veg,,LP,,5,4.6,N,N,,Collins 1971,N
+Bacteria,Mycobacterium avium,33B,,Veg,,LP,,1,5.8,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,33B,,Veg,,LP,,2,8.1,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,33B,,Veg,,LP,,3,10,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,33B,,Veg,,LP,,4,13,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,W41,,Veg,,LP,,1,5.7,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,W41,,Veg,,LP,,2,7.9,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,W41,,Veg,,LP,,3,10,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,W41,,Veg,,LP,,4,12,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,W41,,Veg,,LP,,5,15,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,D55A01,,Veg,,LP,,1,6.4,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,D55A01,,Veg,,LP,,2,9.4,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,D55A01,,Veg,,LP,,3,12,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium,D55A01,,Veg,,LP,,4,15,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,LP,,1,7.7,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,LP,,2,12,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,LP,,3,17,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,LP,,4,22,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,MP,,1,8.1,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,MP,,2,12,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,MP,,3,16,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,LP,,1,7.1,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,LP,,2,11,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,LP,,3,17,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,MP,,1,6.6,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,MP,,2,11,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,MP,,3,15,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,MP,,4,19,Y,N,,Shin et al. 2008,N
+Bacteria,Mycobacterium bovis,BCG,,Veg,,LP,,1,2.2,N,N,,Collins 1971,N
+Bacteria,Mycobacterium bovis,BCG,,Veg,,LP,,2,4.4,N,N,,Collins 1971,N
+Bacteria,Mycobacterium intracellulare,B12CC2,,Veg,,LP,,1,7.8,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium intracellulare,B12CC2,,Veg,,LP,,2,11,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium intracellulare,B12CC2,,Veg,,LP,,3,13,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium intracellulare,B12CC2,,Veg,,LP,,4,16,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium intracellulare,ATCC 13950,,Veg,,LP,,1,7.4,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium intracellulare,ATCC 13950,,Veg,,LP,,2,11,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium intracellulare,ATCC 13950,,Veg,,LP,,3,15,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium intracellulare,ATCC 13950,,Veg,,LP,,4,19,Y,N,,Hayes et al. 2008,N
+Bacteria,Mycobacterium phlei,,,Veg,,LP,,1,3.6,N,N,,Collins 1971,N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,LP,,1,3.9,Y,Y,,"Bohrerova & Linden
+2006a",N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,LP,,2,9.3,Y,Y,,"Bohrerova & Linden
+2006a",N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,LP,,3,16,Y,Y,,"Bohrerova & Linden
+2006a",N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,LP,,1,3.7,Y,N,,"Bohrerova & Linden
+2006b",N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,LP,,2,9.3,Y,N,,"Bohrerova & Linden
+2006b",N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,LP,,3,16,Y,N,,"Bohrerova & Linden
+2006b",N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,MP,,1,3.2,Y,N,,"Bohrerova & Linden
+2006b",N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,MP,,2,11,Y,N,,"Bohrerova & Linden
+2006b",N
+Bacteria,Mycobacterium terrae,ATCC 15755,,Veg,,MP,,3,39,Y,N,,"Bohrerova & Linden
+2006b",N
+Bacteria,Mycobacterium tuberculosis,,,Veg,,LP,,1,2.2,N,N,,Collins 1971,N
+Bacteria,Mycobacterium tuberculosis,,,Veg,,LP,,2,4.3,N,N,,Collins 1971,N
+Bacteria,Pseudomonas aeruginosa,ATCC 9027,,Veg,,LP,,1,3.8,N,N,,Abshire & Dunton 1981,N
+Bacteria,Pseudomonas aeruginosa,ATCC 9027,,Veg,,LP,,2,6.5,N,N,,Abshire & Dunton 1981,N
+Bacteria,Pseudomonas aeruginosa,ATCC 9027,,Veg,,LP,,3,10,N,N,,Abshire & Dunton 1981,N
+Bacteria,Pseudomonas aeruginosa,ATCC 9027,,Veg,,LP,,4,17,N,N,,Abshire & Dunton 1981,N
+Bacteria,Pseudomonas aeruginosa,ATCC 10145,,Veg,,LP,,1,4.6,N,N,,Abshire & Dunton 1981,N

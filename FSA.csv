@@ -1,0 +1,15 @@
+Species,Kingdom,Cases_Median,GP_median,Hospital_median
+Campylobacter,Bacteria,299392,42506,3505
+Clostridium,Bacteria,84854,13458,376
+Salmonella,Bacteria,31601,11484,2097
+Listeria,Bacteria,162,162,139
+Escherichia,Bacteria,468,468,146
+Norovirus,Virus,383182,16915,2167
+Rotavirus,Virus,2065,220,32
+Adenovirus,Virus,12454,1028,192
+Shigella,Bacteria,1634,1634,29
+Cryptosporidium,Protozoa,2072,712,55
+Giardia,Protozoa,13142,1512,28
+Astrovirus,Virus,2552,192,36
+Sapovirus,Virus,43621,1028,245
+Unknown,Unknown,1449168,124102,6439

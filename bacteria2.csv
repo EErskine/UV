@@ -1,0 +1,67 @@
+"","kingdom","phyla","class","order","family","genera","gram","species","number","method","type","host","lamp","wavelength","protocol","tailing","antibiotic_resistant","reference","action_spectrum","pathogen","percent_reduction","fluence"
+"1","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus anthracis","Sterne","","Spore","","LP",NA,"Y","N","","Nicholson & Galeano 2003","N","Y","99.9%",52
+"2","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus anthracis","Ames","","Spore","","LP",NA,"Y","Y","","Rose & OíConnell 2009","N","Y","99.9%",120
+"3","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus anthracis","Sterne","soil extract peptone-beef extract agar","Spore","","LP",NA,"Y","Y","","Rose & OíConnell 2009","N","Y","99.9%",120
+"4","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus anthracis","Sterne","Schaefferís sporulation medium","Spore","","LP",NA,"Y","N","","Rose & OíConnell 2009","N","Y","99.9%",80
+"5","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus atrophaeus","ATCC 9372","","Spore","","LP",NA,"Y","N","","Zhang et al. 2014","N","","99.9%",55
+"6","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus atrophaeus","ATCC 9372","","Spore","","LP",NA,"Y","N","","Zhang et al. 2014","N","","99.99%",71
+"7","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","Excimer",222,"Y","N","","Clauﬂ 2006","N","Y","99%",43
+"8","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","Excimer",222,"Y","N","","Clauﬂ 2006","N","Y","99.9%",69
+"9","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","Y","90%",52
+"10","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","Y","99%",93
+"11","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","Y","99.9%",140
+"12","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus megaterium","QMB 1551","","Spore","","",265,"N","N","","Donnellan & Stafford 1968","N","","99%",42
+"13","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus megaterium","QMB 1551","","Spore","","",265,"N","N","","Donnellan & Stafford 1968","N","","99.9%",55
+"14","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ASFUVRC","","Spore","","Filtered MP",258,"Y","N","","Beck et al. 2015","N","","90%",87
+"15","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ASFUVRC","","Spore","","Filtered MP",258,"Y","N","","Beck et al. 2015","N","","99%",130
+"16","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ASFUVRC","","Spore","","Filtered MP",258,"Y","N","","Beck et al. 2015","N","","99.9%",184
+"17","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ASFUVRC","","Spore","","LP",NA,"Y","N","","Boczek et al. 2016","N","","90%",173
+"18","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ASFUVRC","","Spore","","LP",NA,"Y","N","","Boczek et al. 2016","N","","99%",348
+"19","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ATCC 27142","","Spore","","LP",NA,"Y","N","","Boczek et al. 2016","N","","90%",68
+"20","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ATCC 27142","","Spore","","LP",NA,"Y","N","","Boczek et al. 2016","N","","99%",138
+"21","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ATCC 27142","","Spore","","LP",NA,"Y","N","","Boczek et al. 2016","N","","99.9%",204
+"22","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus pumilus","ATCC 27142","","Spore","","LP",NA,"Y","N","","Boczek et al. 2016","N","","99.99%",272
+"23","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Chang et al. 1985","N","","99%",48
+"24","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Chang et al. 1985","N","","99.9%",59
+"25","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Chang et al. 1985","N","","99.99%",77
+"26","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Sommer et al. 1998","N","","99.9%",50
+"27","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Sommer et al. 1999","N","","99.9%",60
+"28","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Sommer et al. 1999","N","","99.99%",81
+"29","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Cabaj et al. 2002","Y","","99%",47
+"30","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Cabaj et al. 2002","Y","","99.9%",64
+"31","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Cabaj et al. 2002","Y","","99.99%",80
+"32","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Nicholson & Galeano 2003","N","","99.9%",50
+"33","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Nicholson & Galeano 2003","N","","99.99%",60
+"34","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Mamane-Gravetz & Linden
+2004","N","","99.9%",47
+"35","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Mamane-Gravetz & Linden
+2004","N","","99.99%",79
+"36","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","surface cultured","Spore","","",282,"Y","N","","Pennell et al. 2008","N","","99.99%",49
+"37","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Chen et al. 2009","Y","","99.9%",43
+"38","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Chen et al. 2009","Y","","99.99%",55
+"39","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","surface cultured","Spore","","LP",NA,"Y","N","","Sun & Liu 2009","N","","99.9%",61
+"40","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","surface cultured","Spore","","LP",NA,"Y","N","","Sun & Liu 2009","N","","99.99%",82
+"41","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Mamane et al. 2009","N","","99.9%",51
+"42","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Mamane et al. 2009","N","","99.99%",80
+"43","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Wang et al. 2010","N","","99.9%",55
+"44","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","LP",NA,"Y","N","","Wang et al. 2010","N","","99.99%",69
+"45","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","Excimer",172,"Y","N","","Wang et al. 2010","N","","90%",435
+"46","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","ATCC 6633","","Spore","","Excimer",172,"Y","N","","Wang et al. 2010","N","","99%",869
+"47","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","WN624","","Spore","","LP",NA,"Y","N","","Nicholson & Galeano 2003","N","","99.9%",49
+"48","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus subtilis","WN624","","Spore","","LP",NA,"Y","N","","Nicholson & Galeano 2003","N","","99.99%",60
+"49","Bacteria","Cyanobacteria","Cyanophyceae","Nostocales","Nostocaceae","Cylindrospermum","Negative","Cylindrospermum","","","Spore","","LP",NA,"N","N","","Singh 1975","N","","99.9%",43
+"50","Bacteria","Cyanobacteria","Cyanobacteria","Nostocales","Hapalosiphonaceae","Fischerella","Negative","Fischerella muscicola","","","Spore","","LP",NA,"N","N","","Singh 1975","N","","90%",189
+"51","Bacteria","Firmicutes","Bacilli","Bacillales","Thermoactinomycetaceae","Thermoactinomyces","Positive","Thermoactinomyces vulgaris","ATCC 43649","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","","90%",55
+"52","Bacteria","Firmicutes","Bacilli","Bacillales","Thermoactinomycetaceae","Thermoactinomyces","Positive","Thermoactinomyces vulgaris","ATCC 43649","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","","99%",90
+"53","Bacteria","Firmicutes","Bacilli","Bacillales","Thermoactinomycetaceae","Thermoactinomyces","Positive","Thermoactinomyces vulgaris","ATCC 43649","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","","99.9%",115
+"54","Bacteria","Firmicutes","Bacilli","Bacillales","Thermoactinomycetaceae","Thermoactinomyces","Positive","Thermoactinomyces vulgaris","ATCC 43649","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","","99.99%",140
+"55","Bacteria","Firmicutes","Bacilli","Bacillales","Thermoactinomycetaceae","Thermoactinomyces","Positive","Thermoactinomyces vulgaris","ATCC 43649","","Spore","","Excimer",222,"Y","N","","Clauﬂ 2006","N","","99.9%",46
+"56","Bacteria","Firmicutes","Bacilli","Bacillales","Thermoactinomycetaceae","Thermoactinomyces","Positive","Thermoactinomyces vulgaris","ATCC 43649","","Spore","","Excimer",222,"Y","N","","Clauﬂ 2006","N","","99.99%",55
+"57","Bacteria","Deinococcus-Thermus†","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","Positive","Deinococcus radiodurans","ATCC 13939","","Veg","","LP",NA,"Y","N","","Clauﬂ 2006","N","","90%",113
+"58","Bacteria","Deinococcus-Thermus†","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","Positive","Deinococcus radiodurans","ATCC 13939","","Veg","","LP",NA,"Y","N","","Clauﬂ 2006","N","","99%",142
+"59","Bacteria","Deinococcus-Thermus†","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","Positive","Deinococcus radiodurans","ATCC 13939","","Veg","","LP",NA,"Y","N","","Clauﬂ 2006","N","","99.9%",170
+"60","Bacteria","Deinococcus-Thermus†","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","Positive","Deinococcus radiodurans","ATCC 13939","","Veg","","LP",NA,"Y","N","","Clauﬂ 2006","N","","99.99%",205
+"61","Bacteria","Deinococcus-Thermus†","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","Positive","Deinococcus radiodurans","ATCC 13939","","Veg","","Excimer",222,"Y","N","","Clauﬂ 2006","N","","90%",44
+"62","Bacteria","Deinococcus-Thermus†","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","Positive","Deinococcus radiodurans","ATCC 13939","","Veg","","Excimer",222,"Y","N","","Clauﬂ 2006","N","","99%",57
+"63","Bacteria","Deinococcus-Thermus†","Deinococci","Deinococcales","Deinococcaceae","Deinococcus","Positive","Deinococcus radiodurans","ATCC 13939","","Veg","","Excimer",222,"Y","N","","Clauﬂ 2006","N","","99.9%",91
+"64","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Salmonella","Negative","Salmonella typhimurium","ATCC 19430 (in act. sluge)","","Veg","","LP",NA,"Y","N","","Maya et al. 2003","N","Y","99.99%",50

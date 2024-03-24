@@ -1,0 +1,11 @@
+"","kingdom","phyla","class","order","family","genera","gram","species","number","method","type","host","lamp","wavelength","protocol","tailing","antibiotic_resistant","reference","action_spectrum","pathogen","percent_reduction","fluence"
+"1","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus anthracis","Sterne","","Spore","","LP",NA,"Y","N","","Nicholson & Galeano 2003","N","Y","99.9%",52
+"2","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus anthracis","Ames","","Spore","","LP",NA,"Y","Y","","Rose & OíConnell 2009","N","Y","99.9%",120
+"3","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus anthracis","Sterne","soil extract peptone-beef extract agar","Spore","","LP",NA,"Y","Y","","Rose & OíConnell 2009","N","Y","99.9%",120
+"4","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus anthracis","Sterne","Schaefferís sporulation medium","Spore","","LP",NA,"Y","N","","Rose & OíConnell 2009","N","Y","99.9%",80
+"5","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","Excimer",222,"Y","N","","Clauﬂ 2006","N","Y","99%",43
+"6","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","Excimer",222,"Y","N","","Clauﬂ 2006","N","Y","99.9%",69
+"7","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","Y","90%",52
+"8","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","Y","99%",93
+"9","Bacteria","Firmicutes","Bacilli","Bacillales","Bacillaceae","Bacillus","Positive","Bacillus cereus","ATCC 11778","","Spore","","LP",NA,"Y","N","","Clauﬂ 2006","N","Y","99.9%",140
+"10","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Salmonella","Negative","Salmonella typhimurium","ATCC 19430 (in act. sluge)","","Veg","","LP",NA,"Y","N","","Maya et al. 2003","N","Y","99.99%",50

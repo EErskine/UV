@@ -1,0 +1,633 @@
+Kingdom,Phyla,Class,Order,Family,Genera,Gram,Species,Number,Method,Type,Host,Lamp,Wavelength,90%,99%,99.90%,99.99%,100.00%,100.00%,Protocol,Tailing,Antibiotic_Resistant,Reference,Action_Spectrum,Pathogen
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Trichocomaceae,Aspergillus,NA,Aspergillus brasiliensis,ATCC 16404,,Spore,,LP,,122,226,293,,,,Y,N,,Taylor-Edmonds et al. 2015,N,
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Trichocomaceae,Aspergillus,NA,Aspergillus niger,ATCC 32625,,Spore,,LP,,116,245,370,560,,,Y,N,,Clauﬂ 2006,N,
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Trichocomaceae,Aspergillus,NA,Aspergillus niger,ATCC 32625,,Spore,,Excimer,222,90,220,325,430,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus anthracis,Sterne,,Spore,,LP,,28,37,52,,,,Y,N,,Nicholson & Galeano 2003,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus anthracis,Sterne,,Spore,,LP,,23,30,,,,,Y,N,,Blatchley III et al. 2005,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus anthracis,Ames,,Spore,,LP,,25,40,120,,,,Y,Y,,Rose & OíConnell 2009,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus anthracis,Sterne,soil extract peptone-beef extract agar,Spore,,LP,,23,40,120,,,,Y,Y,,Rose & OíConnell 2009,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus anthracis,Sterne,Schaefferís sporulation medium,Spore,,LP,,23,36,80,,,,Y,N,,Rose & OíConnell 2009,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,22,38,55,71,,,Y,N,,Zhang et al. 2014,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus atrophaeus,ATCC 9372,,Spore,,LP,,10,16,26,39,,,Y,N,,Sholtes et al. 2016,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus atrophaeus,ATCC 9372,,Spore,,UV-LED,260,6,10,14,19,31,,Y,N,,Sholtes et al. 2016,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus cereus,ATCC 11778,,Spore,,Excimer,222,25,43,69,,,,Y,N,,Clauﬂ 2006,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus cereus,ATCC 11778,,Spore,,LP,,52,93,140,,,,Y,N,,Clauﬂ 2006,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus cereus,T,,Spore,,LP,,23,30,35,40,,,Y,N,,Blatchley III et al. 2005,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus megaterium,QMB 1551,,Spore,,,265,28,42,55,,,,N,N,,Donnellan & Stafford 1968,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus pumilus,ASFUVRC,,Spore,,Filtered MP,258,87,130,184,,,,Y,N,,Beck et al. 2015,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus pumilus,ASFUVRC,,Spore,,LP,,173,348,,,,,Y,N,,Boczek et al. 2016,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus pumilus,ATCC 27142,,Spore,,LP,,68,138,204,272,,,Y,N,,Boczek et al. 2016,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,12,18,24,30,36,,Y,N,,Quails & Johnson 1983,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,36,48,59,77,,,Y,N,,Chang et al. 1985,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,28,40,50,,,,Y,N,,Sommer et al. 1998,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,19,40,60,81,,,Y,N,,Sommer et al. 1999,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,31,47,64,80,,,Y,N,,Cabaj et al. 2002,Y,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,25,39,50,60,,,Y,N,,Nicholson & Galeano 2003,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,24,35,47,79,,,Y,N,,"Mamane-Gravetz & Linden
+2004",N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633 ,surface cultured,Spore,,LP,,11,18,24,31,,,Y,N,,Mamane-Gravetz et al. 2005,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,liquid cultured,Spore,,LP,,13,23,33,,,,Y,N,,Bohrerova et al. 2006,Y,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,9,15,,,,,Y,N,,Bohrerova et al. 2006,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,Excimer,222,7,12,18,23,,,Y,N,,Pennell et al. 2008,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,19,24,30,35,,,Y,N,,Pennell et al. 2008,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,,282,19,29,39,49,,,Y,N,,Pennell et al. 2008,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,9,17,26,34,,,Y,N,,Bichae et al. 2009,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,21,32,43,55,,,Y,N,,Chen et al. 2009,Y,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,surface cultured,Spore,,LP,,18,39,61,82,,,Y,N,,Sun & Liu 2009,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,24,37,51,80,,,Y,N,,Mamane et al. 2009,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,LP,,26,40,55,69,,,Y,N,,Wang et al. 2010,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,Excimer,222,13,21,30,38,,,Y,N,,Wang et al. 2010,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,Excimer,172,435,869,,,,,Y,N,,Wang et al. 2010,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,269,2,10,17,25,,,Y,N,,W¸rtele et al. 2010,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6633,,Spore,,UV-LED,282,3,11,18,26,,,Y,N,,W¸rtele et al. 2010,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,ATCC 6051,,Spore,,LP,,8,13,17,20,,,Y,N,,Jin et al. 2006,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,TKJ 6312,,Spore,,LP,,0.7,1.5,2.3,3.7,,,Y,N,,Sommer et al. 1999,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus subtilis,WN624,,Spore,,LP,,25,36,49,60,,,Y,N,,Nicholson & Galeano 2003,N,
+Bacteria,Cyanobacteria,Cyanophyceae,Nostocales,Nostocaceae,Cylindrospermum,Negative,Cylindrospermum,,,Spore,,LP,,14,26,43,,,,N,N,,Singh 1975,N,
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Positive,Clostridium pasteurianum,ATCC 6013,,Spore,,LP,,3.4,5.3,6.7,8.4,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Positive,Clostridium pasteurianum,ATCC 6013,,Spore,,Excimer,222,4.3,6.1,7.9,9.6,,,Y,N,,Clauﬂ 2006,N,
+Fungi,Microsporidia,Apansporoblastina,Unikaryonidae,Enterocytozoonidae,Encephalitozoon,NA,Encephalitozoon intestinalis ,,,Spore,,LP,,2.8,5.6,8.4,,,,Y,N,,John et al. 2003,N,
+Fungi,Microsporidia,Apansporoblastina,Unikaryonidae,Enterocytozoonidae,Encephalitozoon,NA,Encephalitozoon intestinalis,,,Microsporidia,,LP & MP,,3,3,6,,,,Y,N,,Huffman et al. 2002,N,
+Bacteria,Cyanobacteria,Cyanobacteria,Nostocales,Hapalosiphonaceae,Fischerella,Negative,Fischerella muscicola,,,Spore,,LP,,189,,,,,,N,N,,Singh 1975,N,
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,Penicillium expansum,ATCC 36200,,Spore,,LP,,11,38,49,65,,,Y,N,,Clauﬂ 2006,N,
+Fungi,Ascomycota,Eurotiomycetes,Eurotiales,Aspergillaceae,Penicillium,NA,Penicillium expansum,ATCC 36200,,Spore,,Excimer,222,22,33,42,,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces griseus group,Positive,Streptomyces griseus,ATCC 10137,,Spore,,LP,,8.5,13,15,18,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces griseus group,Positive,Streptomyces griseus,ATCC 10137,,Spore,,Excimer,222,13,17,20,26,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Thermoactinomyces,Positive,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,LP,,55,90,115,140,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Thermoactinomycetaceae,Thermoactinomyces,Positive,Thermoactinomyces vulgaris,ATCC 43649,,Spore,,Excimer,222,25,38,46,55,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Negative,Aeromonas hydrophila,ATCC 7966,,Veg,,LP,,1.1,2.5,4,5.5,6.9,8.4,Y,N,,Wilson et al. 1992,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Negative,Aeromonas salmonicida,AL 2017,,Veg,,LP,,1.5,2.7,3.1,5.9,,,Y,N,,Liltved & Landfald 1996,N,
+Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Paenarthrobacter,Positive,Paenarthrobacter nicotinovorans,ATCC 49919,,Veg,,LP,,8,10,12,14,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Paenarthrobacter,Positive,Paenarthrobacter nicotinovorans,ATCC 49919,,Veg,,Excimer,222,10,15,18,20,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus cereus,ATCC 11778,,Veg,,LP,,6,7,9,12,,,Y,N,,Clauﬂ 2006,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus cereus ,ATCC 11778,,Veg,,Excimer,222,9,11,14,18,,,Y,N,,Clauﬂ 2006,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Positive,Bacillus megaterium, QMB 1551,,Veg,,,265,4.6,,,,,,N,N,,"Donnellan & Stafford
+1968",N,
+Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Negative,Burkholderia mallei,M9,,Veg,,LP,,1,2.4,3.8,5.2,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Negative,Burkholderia mallei,M13,,Veg,,LP,,1.2,2.7,4.1,5.5,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Negative,Brucella melitensis,ATCC 23456,,Veg,,LP,,2.8,5.3,7.8,10.3,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Negative,Brucella melitensis,IL195,,Veg,,LP,,3.7,5.8,7.8,9.9,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Negative,Burkholderia pseudomallei,ATCC 11688,,Veg,,LP,,1.7,3.5,5.5,7.4,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Negative,Burkholderia pseudomallei,CA650,,Veg,,LP,,1.4,2.8,4.3,5.7,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Negative,Brucella suis,KS528,,Veg,,LP,,2.7,5.3,7.9,10.5,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Negative,Brucella suis,MO 562,,Veg,,LP,,1.7,3.6,5.6,7.5,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Negative,Campylobacter jejuni,ATCC 43429,,Veg,,LP,,1,2.1,3.4,4.6,5.8,,Y,N,,Wilson et al. 1992,N,Y
+Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Negative,Campylobacter jejuni,biotype 1 strain 709/84,,Veg,,LP,,0.8,1.3,1.7,2.1,,,Y,N,,Butler et al. 1987,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Negative,Citrobacter diversus,,,Veg,,LP,,5,7,9,11.5,13,,Y,N,,Giese & Darby 2000,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Negative,Citrobacter freundii,,,Veg,,LP,,5,9,13,,,,Y,N,,Giese & Darby 2000,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Positive,Corynebacterium diphtheriae,,,Veg,,LP,,3.4,,,,,,N,N,,Sharp 1939,N,
+Bacteria,Deinococcus-Thermus†,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,Positive,Deinococcus radiodurans,ATCC 13939,,Veg,,LP,,113,142,170,205,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Deinococcus-Thermus†,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,Positive,Deinococcus radiodurans,ATCC 13939,,Veg,,Excimer,222,44,57,91,,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,Negative,Eberthella typhosa,,,Veg,,LP,,2.1,,,,,,N,N,,Sharp 1939,N,
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Positive,Enterococcus faecium,,,Veg,,LP,,7,9,11,13,15,,Y,N,Vancomycin,"McKinney & Pruden
+2012",N,Y
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Positive,Enterococcus faecalis,ATCC27285,,Veg,,LP,,3.7,8,14,,,,Y,Y,,"Moreno-AndrÈs et al.
+2016",N,Y
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Positive,Enterococcus faecalis,DSM 20478,,Veg,,LP,,7.1,8.7,13,,,,Y,Y,,Chen et al. 2015,N,Y
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Positive,Enterococcus faecalis,DSM 20478,,Veg,,MP,,5.5,7.6,12,,,,Y,Y,,Chen et al. 2015,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,3,4.8,6.7,8.4,10,,Y,N,,Chang et al. 1985,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,2.5,3,3.5,5,10,15,Y,N,,Harris et al. 1987,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,7,8,9,11,12,,N,N,,Hoyer 1998,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,3.4,5,6.7,8.3,10,,Y,N,,Sommer et al. 1998,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,3.5,4.7,5.5,6.5,7.5,9.6,Y,N,,Sommer et al. 2000,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,2.5,3,3.5,4.5,5,6,Y,N,,Sommer et al. 2001,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,3.9,5.4,6.8,8.2,9.7,,Y,N,,Zimmer & Slawson 2002,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,3.3,4.9,5.7,6.6,,,Y,N,,Clauﬂ et al. 2005,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,Excimer,222,4.9,7.7,9.1,10.3,,,Y,N,,Clauﬂ et al. 2005,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP or MP,,1.6,3,5,6.5,,,Y,N,,Bohrerova et al. 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,4.7,6.2,7.2,8.3,9.3,,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,MP,,2.5,4,4.7,5.3,6,7.3,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,LP,,4.1,5.1,6.2,,,,Y,N,,Bowker et al. 2011,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,UV-LED,255,5.9,7.9,,,,,Y,N,,Bowker et al. 2011,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11229,,Veg,,UV-LED,275,4.3,6.2,7.7,,,,Y,N,,Bowker et al. 2011,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11303,,Veg,,LP,,4,6,9,10,13,15,Y,N,,Wu et al. 2005,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11775,,Veg,,LP,,1.1,2,3,3.4,4,,Y,N,,Quek & Hu 2008,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 11775,,Veg,,MP,,0.9,1.6,2.4,3,3.4,,Y,N,,Quek & Hu 2008,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 15597,,Veg,,LP,,6.4,8.9,11,12,13,,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 15597,,Veg,,MP,,5,6.8,8.3,9.4,11,12,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 25922,,Veg,,LP,,6,6.5,7,8,9,10,Y,N,,Sommer et al. 1998,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 29425,,Veg,,LP,,5.4,8.5,20,,,,Y,N,,"Chatterley & Linden
+2010",N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 29425,,Veg,,UV-LED,265,3.6,5.9,17,20,,,Y,N,,"Chatterley & Linden
+2010",N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 700891,,Veg,,LP,,7.3,10,12,13,15,,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 700891,,Veg,,MP,,4.8,6.8,8.2,9,9.8,,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,B,,Veg,,LP,,1,2.4,4.4,6,,,Y,N,,Shin et al. 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,B,,Veg,,MP,,0.9,2.1,4.2,6,,,Y,N,,Shin et al. 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Aeromonas hydrophila,B ATCC 13033,,Veg,,LP,,1.2,3,4.7,6.5,8.2,10,Y,N,,Sholtes et al. 2016,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Negative,Aeromonas hydrophila,B ATCC 13033,,Veg,,UV-LED,260,1.2,3,4.7,6.5,8.2,10,Y,N,,Sholtes et al. 2016,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,C,,Veg,,LP,,2,3,4,5.6,6.5,8,Y,N,,Otaki et al. 2003,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 15597,,Veg,,LP or MP,,3,4.3,5.5,7,,,Y,N,,Eischeid & Linden 2007,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,CGMCC 1.3373,,Veg,,LP,,3.1,5.9,8,13,,,Y,N,,Guo et al. 2009,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,CGMCC 1.3373,,Veg,,MP,,3.1,5.9,9.6,13,,,Y,N,,Guo et al. 2009,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,ATCC 700609,,Veg,,XeBr,282,5.5,7.5,9.6,12,,,,N,,Matafonova et al. 2012,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12,,Veg,,LP,,1.1,1.9,2.6,3.4,,,N,N,,Qiu et al. 2004,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,2,4,6,7,9,,Y,N,,Oguma et al. 2002,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12 IFO 3301,,Veg,,LP,,1.5,2,3.5,4.2,5.5,6.2,Y,N,,Otaki et al. 2003,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12 IFO 3301,,Veg,,LP & MP,,2.2,4.4,6.7,8.9,11,,Y,N,,Oguma et al. 2004,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,265,2.6,4.7,6.6,9,12,,Y,N,,Oguma et al. 2013,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,280,3.4,6.9,10,14,,,Y,N,,Oguma et al. 2013,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12 IFO 3301,,Veg,,LP,,1.9,4,6,8,,,Y,N,,Rattanakul et al. 2014,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12 IFO 3301,,Veg,,UV-LED,285,7.8,13,16,23,34,,Y,N,,Oguma et al. 2015,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,K12 IFO 3301,,Veg,,LP,,2,4,6,,,,Y,N,,Oguma et al. 2001,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,NBIMB 9481,,Veg,,LP,,5.9,8,9.3,10.5,12,,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,NBIMB 9481,,Veg,,MP,,4.3,6.2,7.3,8.6,,,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,NBIMB 10083,,Veg,,LP,,2.8,4.4,5.6,6.6,7.6,,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,NBIMB 10083,,Veg,,MP,,2.5,4.3,5.1,6,6.8,7.6,Y,N,,Quek & Hu 2008,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,OP50,,Veg,,LP,,2,4.4,6.7,9.1,,,Y,N,,Bichai et al. 2009,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O157:H7,,Veg,,LP,,1.5,3,4.5,6,,,N,N,,Tosa & Hirata 1999,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O157:H7,,Veg,,LP,,2,2,2.5,4,8,17,,N,,Yaun et al. 2003,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O157:H7 ATCC 43894,,Veg,,LP,,1.4,2.8,4.2,5.5,6.9,,Y,N,,Wilson et al. 1992,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O157:H7 CCUG 29193,,Veg,,LP,,3.5,4.7,5.5,7,,,Y,N,,Sommer et al. 2000,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O157:H7 CCUG 29197,,Veg,,LP,,2.5,3,4.6,5,5.5,,Y,N,,Sommer et al. 2000,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O157:H7 CCUG 29199,,Veg,,LP,,0.4,0.7,1,1.1,1.3,1.4,Y,N,,Sommer et al. 2000,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O25:K98:NM,,Veg,,LP,,5,7.5,9,10,12,,Y,N,,Sommer et al. 2000,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O26,,Veg,,LP,,5.4,8,10.5,12.8,,,N,N,,Tosa & Hirata 1999,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O50:H7,,Veg,,LP,,2.5,3,3.5,4.5,5,6,Y,N,,Sommer et al. 2000,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,O78:H11,,Veg,,LP,,4,5,5.5,6,7,,Y,N,,Sommer et al. 2000,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,145,,Veg,,LP,,0.8,1.9,3,4.7,,,Y,N,Ampicillin,Templeton et al. 2009,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,18,,Veg,,LP,,1.5,3,4,4.9,,,Y,N,Trimethoprim,Templeton et al. 2009,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,SMS-3-5,,Veg,,LP,,3,5.1,6.5,7.6,,,Y,N,,"McKinney & Pruden
+2012",N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,wild type,,Veg,,LP,,2.7,4,5.3,6.6,,,Y,N,,Butler et al. 1987,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,wild type,,Veg,,LP,,4.4,6.2,7.3,8.1,9.2,,Y,N,,Sommer et al. 2000,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Negative,Escherichia coli,wild type,,Veg,,LP,,2,3.6,5.2,6.8,,,Y,N,,Hu et al. 2012,N,
+Bacteria,,,,,,NA,Faecal coliforms,,,Veg,,LP,,6,9,13,22,,,Y,N,,Maya et al. 2003,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Negative,Francisella tularensis,LVS,,Veg,,LP,,1.3,3.1,4.8,6.6,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Francisellaceae,Francisella,Negative,Francisella tularensis,NY98,,Veg,,LP,,1.4,3.8,6.3,8.7,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,,,,,,NA,Faecal streptococci,,,Veg,,LP,,9,14,22,30,,,Y,N,,Maya et al. 2003,N,
+Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,NA,Halobacterium elongata,ATCC 33173,,Veg,,LP,,0.4,0.7,1,,,,N,N,,Martin et al. 2000,N,
+Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium,NA,Halobacterium salibarum,ATCC 43214,,Veg,,LP,,12,15,18,20,,,N,N,,Martin et al. 2000,N,
+Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Negative,Helicobacter pylori,Texas isolate,,Veg,,LP,,2.2,3,3.8,4.6,5.7,6.6,Y,N,,Hayes et al. 2006,N,
+Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Negative,Helicobacter pylori,ATCC 43504,,Veg,,LP,,4.5,5.7,6.7,7.5,8,,Y,N,,Hayes et al. 2006,N,
+Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Negative,Helicobacter pylori,ATCC 49503,,Veg,,LP,,1.7,3.1,4,5.3,7,,Y,N,,Hayes et al. 2006,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Negative,Klebsiella pneumoniae,,,Veg,,LP,,5,7,10,12,,,Y,N,,Giese & Darby 2000,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Negative,Klebsiella terrigena,ATCC 33257,,Veg,,LP,,3.6,6.4,9.3,12,15,,Y,N,,Wilson et al. 1992,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella longbeachae,ATCC 33462,,Veg,,LP,,1.4,3,4.7,6.3,,,Y,N,,"Cervero-Arago et al.
+2014",N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella pneumophila,Philadelphia 2,,Veg,,LP,,0.9,1.8,2.8,3.7,,,N,N,,Antopol & Ellner 1979,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella pneumophila,ATCC 33152,,Veg,,LP,,1.6,3.2,4.8,6.4,8,,Y,N,,Oguma et al. 2004,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella pneumophila,ATCC 33152,,Veg,,MP,,1.9,3.8,5.8,7.7,9.6,,Y,N,,Oguma et al. 2004,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella pneumophila,ATCC 33152,,Veg,,LP,,1.7,3,4.3,5.7,,,Y,N,,"Cervero-Arago et al.
+2014",N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella pneumophila,ATCC 33823,,Veg,,LP,,1.7,3.1,4.5,5.8,,,Y,N,,"Cervero-AragÛ et al.
+2014",N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella pneumophila,ATCC 43660,,Veg,,LP,,3,5,7.2,9.3,,,Y,N,,Wilson et al. 1992,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella pneumophila,Sero group 1,,Veg,,LP,,1.7,2.9,4.2,5.4,,,Y,N,,"Cervero-AragÛ et al.
+2014",N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Negative,Legionella pneumophila,Sero group 8,,Veg,,LP,,1.8,3.3,4.7,6.1,,,Y,N,,"Cervero-AragÛ et al.
+2014",N,Y
+Bacteria,Spirochaetes,Spirochaetia,†Leptospirales,Leptospiraceae,Leptospira,Negative,Leptospira,biflexa serovar patoc Patoc I,,Veg,,LP,,2.3,3.8,5.1,6.7,,,N,N,,"Stamm and Charon
+1988",N,
+Bacteria,Spirochaetes,Spirochaetia,†Leptospirales,Leptospiraceae,Leptospira,Negative,Leptospira,illini 3055,,Veg,,LP,,2.8,3.8,4.8,,,,N,N,,"Stamm and Charon
+1988",N,
+Bacteria,Spirochaetes,Spirochaetia,†Leptospirales,Leptospiraceae,Leptospira,Negative,Leptospira,interrogans serovar Pomona Pomona,,Veg,,LP,,0.8,1.2,1.7,,,,N,N,,"Stamm and Charon
+1988",N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Listeriaceae,Listeria,Positive,Listeria monocytogenes,,,Veg,,LP,,2.2,3,3.2,4.1,4.6,,N,N,,Collins 1971,N,Y
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium avium,33B,,Veg,,LP,,5.8,8.1,10,13,,,Y,N,,Hayes et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium avium,W41,,Veg,,LP,,5.7,7.9,10,12,15,,Y,N,,Hayes et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium avium,D55A01,,Veg,,LP,,6.4,9.4,12,15,,,Y,N,,Hayes et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,LP,,7.7,12,17,22,,,Y,N,,Shin et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium avium hominissuis,HMC02 white transparent,,Veg,,MP,,8.1,12,16,,,,Y,N,,Shin et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,LP,,7.1,11,17,,,,Y,N,,Shin et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium avium hominissuis,HMC02 white opaque,,Veg,,MP,,6.6,11,15,19,,,Y,N,,Shin et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium bovis,BCG,,Veg,,LP,,2.2,4.4,,,,,N,N,,Collins 1971,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium intracellulare,B12CC2,,Veg,,LP,,7.8,11,13,16,,,Y,N,,Hayes et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium intracellulare,ATCC 13950,,Veg,,LP,,7.4,11,15,19,,,Y,N,,Hayes et al. 2008,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium phlei,,,Veg,,LP,,3.6,,,,,,N,N,,Collins 1971,N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium terrae,ATCC 15755,,Veg,,LP,,3.9,9.3,16,,,,Y,Y,,"Bohrerova & Linden
+2006a",N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium terrae,ATCC 15755,,Veg,,LP,,3.7,9.3,16,,,,Y,N,,"Bohrerova & Linden
+2006b",N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium terrae,ATCC 15755,,Veg,,MP,,3.2,11,39,,,,Y,N,,"Bohrerova & Linden
+2006b",N,
+Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,Both,Mycobacterium tuberculosis,,,Veg,,LP,,2.2,4.3,,,,,N,N,,Collins 1971,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,ATCC 9027,,Veg,,LP,,3.8,6.5,10,17,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,ATCC 10145,,Veg,,LP,,4.6,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,ATCC 14207,,Veg,,LP,,3.7,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,ATCC 15442,,Veg,,LP,,3.8,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,ATCC 27853,,Veg,,LP,,4.9,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,ATCC 27853,,Veg,,LP,,0.8,1.6,2.3,3.1,,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,ATCC 27853,,Veg,,Excimer,222,3.1,4.8,5.9,7.5,10,,Y,N,,Clauﬂ 2006,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,1,,Veg,,LP,,1.3,2.7,4.3,6.3,10,,Y,N,,"McKinney & Pruden
+2012",N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,B2,,Veg,,LP,,5.6,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,G2,,Veg,,LP,,3,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,BS4,,Veg,,LP,,3.5,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,WB1,,Veg,,LP,,5.8,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,SH-2918,,Veg,,LP,,3.5,,,,,,N,N,,Abshire & Dunton 1981,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,†Pseudomonas,Negative,Pseudomonas aeruginosa,NCTC 10662,,Veg,,LP,,1.5,2.6,3.8,5,6.2,,Y,N,,Blatchley et al. 2016,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Negative,Salmonella spp.,,,Veg,,LP,,2,2,3.5,7,14,29,N,N,,Yaun et al. 2003,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Negative,Salmonella typhimurium,ATCC 6539,,Veg,,LP,,2.6,4.5,5.8,7,8,,Y,N,,Chang et al. 1985,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Negative,Salmonella typhimurium,ATCC 19430,,Veg,,LP,,2,4.1,6.2,8.3,,,Y,N,,Wilson et al. 1992,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Negative,Salmonella typhimurium,ATCC 19430 (in act. sluge),,Veg,,LP,,3,12,22,50,,,Y,N,,Maya et al. 2003,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Negative,Salmonella typhimurium,LT2 SL3770,,Veg,,LP,,4,5.7,7.8,,,,Y,N,,Chen et al. 2009,Y,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Negative,Salmonella typhimurium,,,Veg,,LP,,3.9,5.3,6.7,7.7,13,,Y,N,,Hu et al. 2012,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Negative,Serratia marcescens,,,Veg,,LP,,2.2,,,,,,N,N,,Sharp 1939,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,†Alteromonadales,Shewanellaceae,Shewanella,Negative,Shewanella algae,,,Veg,,LP,,0.9,1.7,2.4,3.2,,,N,N,,Qiu et al. 2004,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,†Alteromonadales,Shewanellaceae,Shewanella,Negative,Shewanella oneidensis,DLM7,,Veg,,LP,,0.3,0.5,0.8,1.1,,,N,N,,Qiu et al. 2004,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,†Alteromonadales,Shewanellaceae,Shewanella,Negative,Shewanella oneidensis,MR4,,Veg,,LP,,0.7,1.4,2.1,2.8,,,N,N,,Qiu et al. 2004,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,†Alteromonadales,Shewanellaceae,Shewanella,Negative,Shewanella oneidensis,MR1,,Veg,,LP,,0.2,0.4,0.6,0.9,,,N,N,,Qiu et al. 2004,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,†Alteromonadales,Shewanellaceae,Shewanella,Negative,Shewanella putrefaciens,,,Veg,,LP,,0.5,0.8,1.1,1.4,,,N,N,,Qiu et al. 2004,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella ,Negative,Shigella dysenteriae,ATCC 29027,,Veg,,LP,,0.1,1,1.9,2.8,3.8,4.7,Y,N,,Wilson et al. 1992,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella ,Negative,Shigella dysenteriae,,,Veg,,LP,,0.5,1.1,1.9,2.5,3.1,,Y,N,,Hu et al. 2012,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella ,Negative,Shigella paradysenteriae,,,Veg,,LP,,1.7,,,,,,N,N,,Sharp 1939,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella ,Negative,Shigella sonnei,ATCC 9290,,Veg,,LP,,3.2,4.9,6.5,8.2,,,Y,N,,Chang et al. 1985,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Positive,Staphylococcus albus,,,Veg,,LP,,1.8,,,,,,N,N,,Sharp 1939,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Positive,Staphylococcus albus,,,Veg,,LP,,1.1,3.2,4,4.8,,,N,N,,Collins 1971,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Positive,Staphylococcus aureus,,,Veg,,LP,,2.1,3.2,,,,,N,N,,Gates 1929,Y,
+Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Positive,Staphylococcus aureus,(hem),,Veg,,LP,,2.6,,,,,,N,N,,Sharp 1939,N,
+Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Positive,Staphylococcus aureus,ATCC 25923,,Veg,,LP,,3.9,5.4,6.5,10,,,Y,N,,Chang et al. 1985,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Positive,Staphylococcus aureus,ATCC 25923,,Veg,,LP,,4.4,5.8,6.4,7.3,9,,Y,N,,Clauﬂ 2006,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Positive,Staphylococcus aureus,ATCC 25923,,Veg,,Excimer,222,9.3,12,14,18,,,Y,N,,Clauﬂ 2006,N,Y
+Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Positive,Staphylococcus aureus,ATCC BAA-1556,,Veg,,LP,,4.5,7.2,8.8,10,,,Y,N,Methicillin,"McKinney & Pruden
+2012",N,Y
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Positive,Streptococcus faecalis,ATCC 29212,,Veg,,LP,,6.6,8.6,9.8,11.1,,,Y,N,,Chang et al. 1985,N,Y
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Positive,Streptococcus hemolyticus,,,Veg,,LP,,2.2,,,,,,N,N,,Sharp 1939,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Negative,Vibrio anguillarum,,,Veg,,LP,,0.5,1.2,1.5,2,,,Y,N,,Liltved & Landfald 1996,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Negative,Vibrio cholerae,Classical OGAWA 154,,Veg,,LP,,0.8,1.4,2.3,3.9,6.8,,N,N,,Banerjee & Chatterjee 1977,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Negative,Vibrio cholerae,el tor MAK 154,,Veg,,LP,,1.7,4.1,7.1,,,,N,N,,"Banerjee & Chatterjee
+1977",N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Negative,Vibrio cholerae,NAG 1976,,Veg,,LP,,2.5,8.9,,,,,N,N,,"Banerjee & Chatterjee
+1977",N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Negative,Vibrio cholerae,ATCC 25872,,Veg,,LP,,0.7,1.4,2.1,2.8,3.6,,Y,N,,Wilson et al. 1992,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Negative,Vibrio parahaemolyticus,2977,,Veg,,LP,,4.4,,,,,,N,N,,"Banerjee & Chatterjee
+1977",N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Negative,Yersinia enterocolitica,Sero-group 0:3 strain 304/84,,Veg,,LP,,1.2,2.2,3,3.6,,,Y,N,,Butler et al. 1987,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Negative,Yersinia enterocolitica,ATCC 4780,,Veg,,LP,,2.1,4.1,5,5.8,,,Y,N,,Clauﬂ et al. 2005,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Negative,Yersinia enterocolitica,ATCC 4780,,Veg,,Excimer,222,3.1,6.1,7.6,8.8,10,12,Y,N,,Clauﬂ et al. 2005,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Negative,Yersinia enterocolitica,ATCC 27729,,Veg,,LP,,1.6,2.7,4,5.1,,,Y,N,,Wilson et al. 1992,N,Y
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Negative,Yersinia pestis,A1122,,Veg,,LP,,1.4,2.6,3.7,4.9,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Negative,Yersinia pestis,Harbin,,Veg,,LP,,1.3,2.2,3.2,4.1,,,Y,N,,Rose & OíConnell 2009,N,
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Negative,Yersinia ruckeri,,,Veg,,LP,,1,2,3,4,,,Y,N,,Liltved & Landfald 1996,N,
+Protozoa,Discosea,Longamoebia,Centramoebida,Acanthamoebidae,Acanthamoeba,NA,Acanthamoeba castellanii,ATCC 30234,plaque assay,trophozoites,,LP,,40,,,,,,Y,N,,Chang et al. 1985,N,
+Protozoa,Discosea,Longamoebia,Centramoebida,Acanthamoebidae,Acanthamoeba,NA,Acanthamoeba castellanii,CCAP 15342,MPN,trophozoites,,LP,,32,52,72,,,,Y,N,,Cervero-Arago et al. 2014,N,
+Protozoa,Discosea,Longamoebia,Centramoebida,Acanthamoebidae,Acanthamoeba,NA,Acanthamoeba castellanii,CCAP 15342,MPN,cysts,,LP,,45,75,91,125,,,Y,N,,Cervero-Arago et al. 2014,N,
+Protozoa,Discosea,Longamoebia,Centramoebida,Acanthamoebidae,Acanthamoeba,NA,Acanthamoeba culbertsoni,ATCC 30171,mouse infectivity assay,,,LP,,38,58,125,148,,,Y,N,,Maya et al. 2003,N,
+Protozoa,Discosea,Longamoebia,Centramoebida,Acanthamoebidae,Acanthamoeba,NA,Acanthamoeba spp.,isolated strain,mouse infectivity assay, trophozoites,,LP,,39,75,132,160,,,Y,N,,Maya et al. 2003,N,
+Protozoa,Discosea,Longamoebia,Centramoebida,Acanthamoebidae,Acanthamoeba,NA,Acanthamoeba spp.,155,MPN, trophozoites,,LP,,28,31,66,71,,,Y,N,,Cervero-Arago et al. 2014,N,
+Protozoa,Discosea,Longamoebia,Centramoebida,Acanthamoebidae,Acanthamoeba,NA,Acanthamoeba spp.,155,MPN,cysts,,LP,,34,67,99,,,,Y,N,,Cervero-Arago et al. 2014,N,
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium Hominis,,cell culture,,,LP & MP,,3,5.8,,,,,Y,N,,Johnson et al. 2005,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,MP,,3,3,3,19,,,Y,N,,Bolton et al. 1998; Bukhari et al. 1999,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,LP,,3,3,6,16,,,Y,N,,Clancy et al. 2000,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,MP,,3,3,9,11,,,Y,N,,Clancy et al. 2000,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,LP & MP,,2.4,5,5,10,,,Y,N,,Craik et al. 2001,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity and cell infectivity,,,LP,,1,2,5,,,,Y,N,,Shin et al. 2001,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,MP,,10,10,10,,,,Y,N,,Belosevic et al. 2001,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,LP,,0.5,1,1.4,2,,,N,N,,Morita et al. 2002,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,cell infectivity,,,LP,,2,3,3,,,,Y,N,,Zimmer et al. 2003,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,cell infectivity,,,MP,,1,1,1,,,,Y,N,,Zimmer et al. 2003,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,immunofluoresence,,,MP,,1,2,2.9,4,,,Y,N,,Bukhari et al. 2004,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,LP,,2,2,2,4,10,,Y,N,,Clancy et al. 2004,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,MP,,5,5,5,6,,,Y,N,,Amoah et al. 2005,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,cell infectivity,,,LP,,1.8,5.6,25,,,,Y,N,,Ryu et al. 2008,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,mouse infectivity,,,LP,,0.7,1.4,2.2,,,,Y,N,,Oguma et al. 2001,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium parvum,,cell infectivity,,,Laser,254,1,1.9,2.3,2.8,,,Y,N,,Beck et al. 2015,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,NA,Cryptosporidium spp.,,,,,LP & MP,,1,1.5,3,6,,,Y,N,,Qian et al. 2004,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia lamblia,,excystation assay,,,LP,,40,180,,,,,N,N,,Karanis et al. 1992,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia lamblia,,gerbil infectivity,,,LP,,10,10,20,,,,Y,N,,Campbell & Wallace 2002,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia lamblia,,gerbil infectivity,,,LP,,0.5,0.5,0.5,1,,,Y,N,,Linden et al. 2002,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia lamblia,,gerbil infectivity,,,LP,,2,2,4,,,,Y,N,,Mofidi et al. 2002,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia muris,,mouse infectivity,,,MP,,1,4.5,28,,,,Y,Y,,Craik et al. 2000,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia muris,,mouse infectivity,,,MP,,10,10,25,60,,,Y,N,,Belosevic et al. 2001,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia muris,,mouse infectivity,,,LP,,2,2,4,,,,Y,N,,Mofidi et al. 2002,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia muris,,mouse infectivity,,,LP,,2,2,2,2.3,,,N,N,,Hayes et al. 2003,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia muris,,mouse infectivity,,,LP,,5,5,5,,,,Y,N,,Amoah et al. 2005,N,Y
+Protozoa,Fornicata,,Diplomonadida,Hexamitidae,Giardia,NA,Giardia spp.,,,,,LP & MP,,0.6,1.1,1.9,3.4,,,Y,N,,Qian et al. 2004,N,Y
+Protozoa,Discoba,Heterolobosea,Schizopyrenida,Vahlkampfiidae,Naegleria,NA,Naegleria fowleri,,MPN,Cysts,,LP,,32,63,104,121,,,Y,N,,Sarkar and Gerba 2012,N,Y
+Protozoa,Discoba,Heterolobosea,Schizopyrenida,Vahlkampfiidae,Naegleria,NA,Naegleria fowleri,,MPN,Trophozoites,,LP,,8,13,18,24,,,Y,N,,Sarkar and Gerba 2012,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Sarcocystidae,Toxoplasma,NA,Toxoplasma gondii,,Immunfluorescence,oocysts,,LP,,7.2,13,17,19,,,Y,N,,DumËtre et al. 2008,N,Y
+Protozoa,Apicomplexa,Conoidasida,Eucoccidiorida,Sarcocystidae,Toxoplasma,NA,Toxoplasma gondii,,Mouse infectivity,,,LP,,3.4,6.8,10,,,,Y,N,,Ware et al. 2010,N,Y
+Protozoa,Amoebozoa,Tubulinea,Echinamoebida,,Vermamoeba,NA,Vermamoeba vermiformis,CCAP 15434/7A,MPN,Trophozoites,,LP,,11,19,26,34,,,Y,N,,Cervero-Arago et al. 2014,N,Y
+Protozoa,Amoebozoa,Tubulinea,Echinamoebida,,Vermamoeba,NA,Vermamoeba vermiformis,CCAP 15434/7A,MPN,Cysts,,LP,,17,38,54,78,,,Y,N,,Cervero-Arago et al. 2014,N,Y
+Protozoa,Amoebozoa,Tubulinea,Echinamoebida,,Vermamoeba,NA,Vermamoeba vermiformis,195,MPN,Trophozoites,,LP,,10,17,24,32,,,Y,N,,Cervero-Arago et al. 2014,N,Y
+Protozoa,Amoebozoa,Tubulinea,Echinamoebida,,Vermamoeba,NA,Vermamoeba vermiformis,195,MPN,Cysts,,LP,,32,60,76,110,,,Y,N,,Cervero-Arago et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 1,MPN,,PLC/ PRF/5,LP,,35,69,103,138,,,Y,N,,Nwachuku et al. 2005,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,,PLC/ PRF/5,LP,,40,78,119,160,195,235,Y,N,,Gerba et al. 2002,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,Human Lung,,,LP,,35,55,75,100,,,Y,N,,"Ballester & Malley
+2004",N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,,A549 cell line,LP,,20,45,80,110,,,Y,N,,Shin et al. 2005,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,,A549 cell line,LP,,30,60,,,,,Y,N,,Linden et al. 2007,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,,A549 cell line,MP,,10,10,30,40,50,,Y,N,,Linden et al. 2007,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,,A549 cell line,MP,240,15,30,45,60,,,Y,N,,Linden et al. 2007,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,,A549 cell line,LP,,8,31,50,80,117,,Y,N,,Eischeid et al. 2009,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,TCID50,,A549 cell line,LP,,35,78,126,168,,,Y,N,,Linden et al. 2009,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,TCID50,,A549 cell line,MP,,14,29,44,80,120,,Y,N,,Linden et al. 2009,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,HEK293 cells,Human Kidney,LP,,37,88,120,,,,Y,N,,Baxter et al. 2007,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,A-549,Adenoid 6,LP,,42,83,124,166,,,Y,N,,"Sirikanchana et al.
+2008",N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,,,A549 cell line,MP,,4,7,14,22,40,,Y,Y,,Eischeid et al. 2009,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,TCID50,,"A549 cell line
+(CCL-185)",LP,,36,82,,,,,Y,N,,Shin et al. 2009,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,TCID50,,"A549 cell line
+(CCL-185)",MP,,15,29,45,59,80,,Y,N,,Shin et al. 2009,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2 ,TCID50,,"A549 cell line
+(CCL-185)",LP,,56,108,159,206,,,Y,N,,Bounty et al. 2012,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,Plaque Assay,,"A549 cell line
+(CCL-185)",LP,,39,71,98,125,,,Y,N,,Rodriguez et al. 2013,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,Plaque Assay,,"A549 cell line
+(CCL-185)",MP,,7,18,28,47,,,Y,N,,Rodriguez et al. 2013,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,LR-qPCR 6 kb fragment,,"A549 cell line
+(CCL-185)",LP,,5,30,100,,,,Y,N,,Rodriguez et al. 2013,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,LR-qPCR 6 kb fragment,,"A549 cell line
+(CCL-185)",MP,,4,35,100,,,,Y,N,,Rodriguez et al. 2013,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,LR-qPCR 1 kb fragment,,"A549 cell line
+(CCL-185)",LP,,18,50,100,,,,Y,N,,Rodriguez et al. 2013,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,LR-qPCR 1 kb fragment,,"A549 cell line
+(CCL-185)",MP,,5,,,,,,Y,Y,,Rodriguez et al. 2013,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,LR-qPCR 10 kb fragment,,"A549 cell line
+(CCL-185)",LP,,15,,,,,,Y,N,,Rodriguez et al. 2013,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,LR-qPCR 10 kb fragment,,"A549 cell line
+(CCL-185)",MP,,39,94,,,,,Y,N,,Rodriguez et al. 2013,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2 ATCC VR-846,MPN,,"A549 cell line
+(CCL-185)",LP,,43,86,130,174,,,Y,N,,Beck et al. 2014,Y,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2 ATCC VR-846,LR-PCR 1.1 kbp fragment,,"A549 cell line
+(CCL-185)",LP,,45,68,,,,,Y,N,,Beck et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2 ATCC VR-846,method: LR-PCR 1.1 kbp fragment,,"A549 cell line
+(CCL-185)",Laser 254 nm,,32,85,,,,,Y,N,,Beck et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2 ATCC VR-846,MPN,,"A549 cell line
+(CCL-185)",LP,,40,76,120,,,,Y,N,,Beck et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2 ATCC VR-846,MPN,,"A549 cell line
+(CCL-185)",MP,,8,18,34,,,,Y,N,,Beck et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2 ATCC VR-846,MPN,,"A549 cell line
+(CCL-185)",MP,,32,71,135,,,,Y,N,,Beck et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,Cell culture,,"A549 cell line
+(CCL-185)",Laser 254 nm,,40,70,101,,,,Y,N,,Beck et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,Infectivity,,A549 cell line,LP,,33,118,,,,,N,N,,Calgua et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,qPCR,,A549 cell line,LP,,140,,,,,,N,N,,Calgua et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,MPN,,"A549 cell line
+(CCL-185)",LP,,47,86,129,172,,,Y,N,,Ryu et al. 2015,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2 ATCC VR-846;,ICC-qPCR,,"A549 cell line
+(CCL-185)",LP,,40,81,121,161,,,Y,N,,Ryu et al. 2015,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 2,Total culturable virus,,"A549 cell line
+(CCL-185)",LP,,26,100,135,168,203,,Y,N,,Boczek et al. 2016,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 4 ATCC VR-1572;,ICC qPCR,,PLC/ PRF/5,LP,,10,34,69,116,,,Y,N,,Gerrity et al. 2008,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,cell culture,,HEK 293,LP,,45,76,120,,,,Y,N,,Baxter et al. 2007,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,,,HEK293,LP,,38,76,114,152,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,,,HEK293,MP,,23,45,68,90,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,,,PLC/PRF/5,LP,,31,62,93,123,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,,,PLC/PRF/5,MP,,22,43,65,87,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,,,XP17BE,LP,,13,26,39,52,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,,,XP17BE,MP,,9,18,27,36,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,,,"A549 cell line
+(CCL-185)",LP,,51,101,151,,,,Y,N,,Rattanakul et al. 2014,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5,,,"A549 cell line
+(CCL-185)",LP,,63,100,151,,,,Y,N,,Rattanakul et al. 2015,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 5 ATCC VR5,MPN,,"A549 cell line
+(CCL-185)",UV-LED,285,50,82,126,,,,Y,N,,Oguma et al. 2015,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 6,,,PLC/ PRF/5,LP,,39,77,115,154,,,Y,N,,Nwachuku et al. 2005,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 40,MPN,,PLC/PRF5,LP,,50,109,167,,,,Y,N,,Thurston-Enriquez et al. 2003,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 40,MPN,,PLC/PRF5,MP,,16,23,30,40,,,Y,N,,Linden et al. 2007,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 40,,,PLC/PRF5,LP,,63,88,109,120,,,Y,N,,Blatchley et al. 2008,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 40,,,HEK293,LP,,35,70,105,139,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 40,,,HEK293,MP,,17,33,50,66,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 40,,,PLC/PRF/5,LP,,34,67,101,134,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 40,ICC-RT-PCR,,PLC/PRF/5,MP,,16,33,49,65,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 41 ATCC VR-930;,cell culture,,HEK 293 cells ATCC CRL-1573,LP,,56,111,167,222,,,Y,N,,Ko et al. 2005,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 41;,,,HEK 293,LP,,62,120,,,,,Y,N,,Baxter et al. 2007,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 41,,,HEK293,LP,,45,91,136,182,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 41,,,HEK293,MP,,20,39,59,78,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 41,,,PLC/PRF/5,LP,,34,68,103,137,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 41,,,PLC/PRF/5,MP,,18,36,53,71,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 41,,,XP17BE,LP,,14,29,43,57,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,Mastadenovirus,NA,Adenovirus,Type 41,,,XP17BE,MP,,11,21,32,42,,,Y,N,,Guo et al. 2010,N,Y
+Virus,Kitrinoviricota,Magsaviricetes,Nodamuvirales,Nodaviridae,Betanodavirus,NA,Atlantic halibut nodavirus (AHNV),,,,SSN-1 cell line,LP,,35,70,104,140,176,211,Y,N,,Liltved et al. 2006,N,
+Virus,Caudovirales,Siphoviridae,,,,NA,B40-8 (phage),,,,B. fragilis HSP-40,LP,,12,18,23,28,,,Y,N,,Sommer et al. 1998,N,
+Virus,Caudovirales,Siphoviridae,,,,NA,B40-8 (phage),,,,B. fragilis,LP,,11,17,23,29,35,41,Y,N,,Sommer et al. 2001,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Caliciviridae,Vesivirus,NA,Calicivirus feline,,,,CRFK cell,LP,,5,15,23,30,39,,Y,N,,Thurston-Enriquez et al. 2003,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Caliciviridae,Vesivirus,NA,Calicivirus feline,,,,MDCK cell,LP,,7,15,22,30,36,,Y,N,,"de Roda Husman et
+al. 2004",N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Caliciviridae,Vesivirus,NA,Calicivirus feline,,,,CRFK cell,LP,,7,16,25,,,,Y,N,,de Roda Husman et al. 2004,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Caliciviridae,Vesivirus,NA,Calicivirus feline,FCV ATCC VR-782,,,"Crandell Reese feline kidney cell CRfk, ATCC CCL-94",LP,,5,12,18,26,,,Y,N,,Park et al. 2011,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Coxsackievirus,B3,,,BGM cell line,LP,,8,16,25,33,,,Y,N,,Gerba et al. 2002,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Coxsackievirus,B4,,,BGM cell line,LP,,7,13,18,24,29,,Y,N,,Shin et al. 2005,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Coxsackievirus,B5,,,BGM cell line,LP,,9.5,18,27,36,,,Y,N,,Gerba et al. 2002,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Coxsackievirus,B5,,,BGM cell line,LP,,7,14,21,,,,Y,N,,Battigelli et al. 1993,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Echovirus,I,,,BGM cell line,LP,,8,17,25,33,,,Y,N,,Gerba et al. 2002,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Echovirus,II,,,BGM cell line,LP,,7,14,21,28,,,Y,N,,Gerba et al. 2002,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Echovirus,12,,,"foetal rhesus monkey kidney cell FRhK-4, ATCC CRL-1688",LP,,8,13,18,28,40,,Y,N,,Park et al. 2011,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,GA phage,,,,E. coli Hfr K12 ATCC 23631,LP,,18,38,58,87,121,,Y,N,,"Simonet & Gantzer
+2006",N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Hepatovirus,NA,Hepatitis,A HM175,,,FRhK-4 cell,LP,,5.4,15,25,35,,,Y,N,,Wilson et al. 1992,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Hepatovirus,NA,Hepatitis,A HM175,,,FRhK-4 cell,LP,,4,8,12,16,,,Y,N,,Battigelli et al. 1993,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Hepatovirus,NA,Hepatitis A,,,,HAV/HFS/GBM,LP,,6,10,15,21,,,N,N,,"Wiedenmann et al.
+1993",N,
+Virus,incertae sedis,,,Birnaviridae,Aquabirnavirus,NA,Infectious pancreatic necrosis virus (IPNV),,,,BF-2 cell line,LP,,82,165,246,325,,,Y,N,,Liltved et al. 2006,N,
+Virus,Negarnaviricota,Insthoviricetes,Articulavirales,Orthomyxoviridae,Isavirus,NA,Infectious salmon anaemia virus (ISAV),,,,SHK-1 cell line,LP,,2.5,5,8,,,,Y,N,,Liltved et al. 2006,N,
+Virus,Cossaviricota,Papovaviricetes,Sepolyvirales,Polyomaviridae,,NA,JC polyomavirus,Mad-4,cell culture,,SVG-A cells,LP,,60,124,171,,,,N,N,,Calgua et al. 2014,N,
+Virus,Cossaviricota,Papovaviricetes,Sepolyvirales,Polyomaviridae,,NA,JC polyomavirus,Mad-4,qPCR,,SVG-A cells,LP,,180,,,,,,N,N,,Calgua et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,,UV-LED,255,14,26,38,,,,Y,N,,Aoyagi et al. 2011,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli Famp,LP,,13,25,44,64,,,Y,N,,Rodriguez et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli Famp,MP,,9,17,31,46,56,,Y,N,,Rodriguez et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli Cr63,LP,,17,34,,,,,Y,N,,Rauth 1965,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli C3000,LP,,35,,,,,,Y,N,,Battigelli et al. 1993,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli ATCC15597,LP?,,19,40,61,,,,N,N,,"Oppenheimer et al.
+1993",N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,Salmonella typhimurium WG49,LP,,16,35,57,83,114,152,N,N,,Nieuwstad & Havelaar 1994,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli ATCC15597,LP,,13,29,45,62,80,,Y,N,,Meng & Gerba 1996,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli C3000,LP,,13,28,,,,,Y,N,,Shin et al. 2001,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli K-12 Hfr,LP,,21,36,,,,,Y,N,,Sommer et al. 1998,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli K-12,LP,,19,36,55,,,,Y,N,,Sommer et al. 2001,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli C3000,LP,,20,42,68,90,,,Y,N,,Linden et al. 2002,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli ATCC 15977,LP,,20,50,85,120,,,Y,N,,Thurston-Enriquez et al. 2003,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli ATCC 15977,LP,,20,42,70,98,133,,N,N,,"Lazarova & Savoye
+2004",N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli C3000,LP,,20,42,69,92,,,Y,N,,Batch et al. 2004,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli ATCC 15977,LP,,29,58,87,116,,,Y,N,,Nwachuku et al. 2005,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli ATCC 15977,LP,,14,33,50,66,,,Y,N,,Hu et al. 2012,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,E. coli K12 A/?(F+),LP,,22,48,,,,,Y,N,,Rattanakul et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,"E. coli Famp
+ATCC
+700891",LP,,14,30,45,60,,,Y,N,,Sholtes et al. 2016,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,,,"E. coli Famp
+ATCC
+700891",UV-LED,260,13,36,40,53,,,Y,N,,Sholtes et al. 2016,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,cell culture,,"Salmonella
+typhimurium
+WG49",LP,,20,40,61,91,119,146,N,N,,Calgua et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,,qPCR,,"Salmonella
+typhimurium
+WG49",LP,,180,,,,,,N,N,,Calgua et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli ATCC 15977,LP,,17,38,59,81,103,123,Y,N,,Wilson et al. 1992,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,E. coli HS(pFamp)R,LP,,16,45,72,100,128,154,Y,N,,Thompson et al. 2003,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli ATCC
+15977",LP,,15,32,51,72,98,,Y,N,,"Lazarova & Savoye
+2004",N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli ATCC
+15977",LP,,25,42,66,97,,,Y,N,,Butkus et al. 2004,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli ATCC
+15977",LP,,20,40,62,92,141,173,Y,N,,Ko et al. 2005,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,"E. coli ATCC
+15977",LP,,20,40,62,92,141,173,Y,N,,Ko et al. 2005,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,E. coli ATCC 15977,LP,,18,38,59,80,,,Y,N,,Sun & Liu 2009,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli
+ NCTC12486",LP,,20,40,60,,,,Y,N,,"Mamane-Gravetz et
+al. 2005",Y,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli Hfr
+K12 ATCC
+23631",LP,,20,40,68,95,125,,Y,N,,"Simonet & Gantzer
+2006",N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,"E. coli ATCC
+15597",LP,,18,40,,,,,Y,N,,Templeton et al. 2006,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli ATCC
+15597
+C3000",LP,,14,29,45,,,,Y,N,,Bohrerova et al. 2006,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,E. coli Famp,LP,,16,30,,,,,Y,N,,Lee et al. 2008,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli
+ ATCC 15597",LP,,20,39,61,83,,,Y,N,,"Blatchley III et al.
+2008",N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli 
+ATCC 15597",LP,,18,41,,,,,Y,N,,Bowker et al. 2011,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,"ATCC15977-
+B1",,,"E. coli 
+ATCC 15597",UV- LED,255,25,50,,,,,Y,N,,Bowker et al. 2011,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli ATCC 15597,UV-LED,275,25,55,,,,,Y,N,,Bowker et al. 2011,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli Famp ATCC 700891,LP,,14,32,51,,,,Y,N,,Park et al. 2011,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,,LP,,13,30,53,70,,,Y,N,,Timchak & Gitis 2012,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli ATCC 15597 Migula,LP,,18,52,75,92,106,116,Y,N,,Guo & Hu 2012,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli ATCC 15597,LP,,20,40,70,95,120,138,N,N,,Sherchan et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli ATCC 15597 C3000,LP,,20,45,,,,,Y,N,,Jenny et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli ATCC 15597 C3000,UV-LED,260,15,32,48,,,,Y,N,,Jenny et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli ER2738,UV-LED,255,19,42,72,,,,N,N,,Simons et al. 2014,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli Hfr K12 ATCC23631,LP,,6,13,21,29,37,46,Y,N,,Song et al. 2015,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli ATCC 700891,LP,,18,33,63,,,,Y,N,,Beck et al. 2015,Y,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli HS(pFamp)R ATCC 700891,MP,,15,32,52,,,,Y,N,,Beck et al. 2015,Y,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli HS(pFamp)R ATCC 700891,LP,,20,40,60,,,,Y,N,,Beck et al. 2016,Y,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli K12 A/?(F+),UV-LED,285,32,70,106,,,,Y,N,,Oguma et al. 2015,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1,,,E. coli Famp ATCC 700891,LP,,17,35,60,88,116,,Y,N,,Boczek et al. 2016,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,F-specific,,,E. coli WG21,LP,,8,17,25,33,,,Y,N,,Havelaar et al. 1990,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,F-specific,,,E. coli WG21,MP,,9,19,28,38,,,Y,N,,Havelaar et al. 1990,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1 F-specific,,,E. coli C3000,LP,,14,29,49,,,,Y,N,,Shin et al. 2005,N,
+Virus,†Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1 F-specific,,,E. coli ATCC 15597 C3000,LP,,19,42,69,,,,Y,N,,Shin et al. 2009,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,ATCC15977-B1 F-specific,,,E. coli ATCC 15597 C3000,MP,,16,33,53,90,,,Y,N,,Shin et al. 2009,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,MS2 coliphage,DSM 5694,,,E. coli NCIB 9481,LP?,,4,16,38,68,110,,N,N,,"Wiedenmann et al.
+1993",N,
+Virus,Heunggongvirae,Uroviricota,Caudoviricetes,Caudovirales,Myoviridae,NA,Myoviridae,,,,E. coli C,LP,,1.8,3.6,5.1,6.7,8.5,,Y,N,,Shin et al. 2005,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Caliciviridae,Norovirus,NA,Murine norovirus,NCIMB 10108,,,RAW 264.7,LP,,10,15,22,27,30,,Y,N,,Lee et al. 2008,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Caliciviridae,Norovirus,NA,Murine norovirus,CW3,,,RAW 264.7,LP,,10,15,22,27,30,,Y,N,,Park et al. 2011,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Siphoviridae,,NA,Phage B124-54,B. fragilis strain GB-124,,,,LP,,14,21,28,,,,Y,N,,Diston et al. 2012,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,(phage),,,E. coli C3000,LP?,,2.1,4.2,6.4,8.5,11,13,Y,N,,Battigelli et al. 1993,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,(phage),,,E. coli ATCC 15597,LP?,,4,8,12,,,,N,N,,"Oppenheimer et al.
+1993",N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,(phage),,,E. coli WG5,LP,,2.2,5.3,7.3,10.5,,,Y,N,,Sommer et al. 1998,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,(phage),,,E. coli ATCC 13706,LP,,2,3.5,5,7,,,Y,N,,Giese & Darby 2000,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,(phage),,,E. coli WG5,LP,,3,5,7.5,10,13,15,Y,N,,Sommer et al. 2001,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,,,,,UV-LED,255,1.6,3.3,5.1,,,,Y,N,,Aoyagi et al. 2011,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,,,,,UV-LED,280,2.3,5.1,8.6,,,,Y,N,,Aoyagi et al. 2011,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,ATCC 13706,,,,LP,,7.1,14,21,28,37,47,Y,N,,Timchak & Gitis 2012,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,ATCC 13706,,,E. coli CN13,LP,,,,,8.9,,,Y,N,,Rodriguez et al. 2014,N,
+Virus,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,Sinsheimervirus,NA,PHI X 174,ATCC 13706,,,E. coli CN13,MP,,,,,6.7,,,Y,N,,Rodriguez et al. 2014,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,,NA,Picornaviridae aphthovirus (foot and mouth disease virus),O189,,,BHK 21,LP,,25,50,75,100,,,N,N,,"Nuanualsuwan et al.
+2008",N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,,NA,Picornaviridae aphthovirus (foot and mouth disease virus),A132,,,BHK 21,LP,,20,39,59,78,,,N,N,,"Nuanualsuwan et al.
+2008",N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,,NA,Picornaviridae aphthovirus (foot and mouth disease virus),A Sakol,,,BHK 21,LP,,22,44,67,89,,,N,N,,"Nuanualsuwan et al.
+2008",N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,,NA,Picornaviridae aphthovirus (foot and mouth disease virus),AS 1,,,BHK 21,LP,,31,63,94,125,,,N,N,,"Nuanualsuwan et al.
+2008",N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Type 1 LSc2ab,,,MA104 cells,LP,,,5.6,11,17,22,,Y,N,,Chang et al. 1985,N,Y
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Type 1 ATCC Mahoney,,,N/A,LP,,6,14,23,30,,,Y,N,,Harris et al. 1987,N,Y
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Type 1 LSc2ab,,,BGM cell line,LP,,2.8,11,20,28,37,46,Y,N,,Wilson et al. 1992,N,Y
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Type 1,,,BGM cell line,LP,,8,16,23,31,,,Y,N,,Gerba et al. 2002,N,Y
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Type 1 LSc2ab,,,BGM cell line,LP,,7,17,28,37,,,Y,N,,Thompson et al. 2003,N,Y
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Vaccine,plaque assay,,N/A,LP,,6.4,14,22,33,,,N,N,,"Lazarova & Savoye
+2004",N,Y
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Vaccine,TCID50,,N/A,LP,,6.4,14,21,31,,,N,N,,"Lazarova & Savoye
+2004",N,Y
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Type 1,,,BGM cell line,LP,,8.7,17,25,,,,Y,N,,Shin et al. 2005,N,Y
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Poliovirus,Type 1,,,BGM cell line,LP,,7,14,21,29,39,50,Y,N,,"Simonet & Gantzer
+2006",N,Y
+Virus,Preplasmiviricota,Tectiliviricetes,Kalamavirales,Tectiviridae,Alphatectivirus,NA,PRD-1,phage,,,Salmonella typhimurium Lt2,LP,,10,17,24,30,,,Y,N,,Meng & Gerba 1996,N,
+Virus,Preplasmiviricota,Tectiliviricetes,Kalamavirales,Tectiviridae,Alphatectivirus,NA,PRD-1,ATCC BAA-769-B1,,,Salmonella typhimurium Lt2,LP,,18,50,81,108,138,,Y,N,,Shin et al. 2005,N,
+Virus,Preplasmiviricota,Tectiliviricetes,Kalamavirales,Tectiviridae,Alphatectivirus,NA,PRD-1,,,,"Salmonella
+typhimurium
+Lt2",LP,,,,,36,,,Y,N,,Rodriguez et al. 2014,N,
+Virus,Preplasmiviricota,Tectiliviricetes,Kalamavirales,Tectiviridae,Alphatectivirus,NA,PRD-1,,,,"Salmonella typhimurium
+Lt2",MP,,,,,32,,,Y,N,,Rodriguez et al. 2014,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,,,,,UV-LED,255,11,23,,,,,Y,N,,Aoyagi et al. 2011,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,,,,,UV-LED,280,27,,,,,,Y,N,,Aoyagi et al. 2011,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,,,,"E. coli ATCC
+15597
+C3000",LP,,12,25,40,,,,Y,N,,Jenny et al. 2014,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,,,,"E. coli ATCC
+15597
+C3000",UV-LED,260,9,19,29,41,,,Y,N,,Jenny et al. 2014,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,ATCC 23631-B1,,,"E. coli ATCC
+23631",LP,,8,18,28,40,,,Y,N,,"Blatchley III et al.
+2008",N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,"ATCC 23631-
+B1",,,"E. coli ATCC
+23631",LP,,,20,,,,,Y,N,,Beck et al. 2015,Y,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,"ATCC 23631-
+B1",,,"E. coli ATCC
+23631",Laser,254,11,22,34,46,,,Y,N,,Beck et al. 2015,Y,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,,,,"E. coli Hfr
+K12 ATCC
+23631",LP,,12,23,36,50,66,83,Y,N,,"Simonet & Gantzer
+2006",N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,,,,"E. coli K12
+A/?(F+)",LP,,10,23,35,,,,Y,N,,Rattanakul et al. 2014,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,ATCC 23631-B1,,,"E. coli K12
+A/?(F+)",UV-LED,285,27,54,81,,,,Y,N,,Oguma et al. 2015,N,
+Virus,Lenarviricota,Allassoviricetes,Levivirales,Leviviridae,Levivirus,NA,QB phage,,,,"E. coli K12
+A/?(F+)",LP,,11,26,40,55,,,Y,N,,Oguma et al. 2013,N,
+Virus,†Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,,NA,Reovirus,,,,Mouse L-60,LP,,11,22,,,,,Y,N,,Rauth 1965,N,
+Virus,†Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,,NA,Reovirus,"Type 1 Lang
+strain",,,,LP,,16,36,,,,,Y,N,,Harris et al. 1987,N,
+Virus,Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,Sedoreovirinae,NA,Rotavirus,SA-11,,,Monkey,LP,,8,15,27,38,,,Y,N,,Sommer et al. 1989,N,
+Virus,Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,Sedoreovirinae,NA,Rotavirus,SA-11,,,MA 104 cell,LP,,20,80,140,200,,,N,N,,Caballero et al. 2004,N,
+Virus,Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,Sedoreovirinae,NA,Rotavirus,SA-11,,,MA 104 cell,LP,,7,15,25,,,,Y,N,,Chang et al. 1985,N,
+Virus,Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,Sedoreovirinae,NA,Rotavirus,SA-11,,,MA 104 cell,LP,,9,19,26,36,48,,Y,N,,Wilson et al. 1992,N,
+Virus,Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,Sedoreovirinae,NA,Rotavirus,SA-11,,,MA 104 cell,LP,,7,15,23,,,,Y,N,,Battigelli et al. 1993,N,
+Virus,Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,Sedoreovirinae,NA,Rotavirus,SA-11 ATCC VR-1565,,,MA 104 cells ATCC CRL-2378.1,LP,,7,15,31,,,,Y,Y,,Li et al. 2009,N,
+Virus,Duplornaviricota,Resentoviricetes,Reovirales,Reoviridae,Sedoreovirinae,NA,Rotavirus,SA-11 ATCC,,,MA 104 cells,LP,,29,58,88,117,,,Y,Y,,Li et al. 2009,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Human Rhinovirus,,,,,LP,,16,24,32,40,,,Y,N,,Hu et al. 2012,N,
+Virus,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,NA,Human Rhinovirus,SA-11,,,MA-104 cell,LP,,10,21,32,43,53,,Y,N,,Wilson et al. 1992,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Siphoviridae,,NA,Siphoviridae,,,,E. coli C,LP,,1.8,3.6,5.7,7.5,9.3,,Y,N,,Shin et al. 2005,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T1,,,,E. coli CN13,LP,,,,,13,,,Y,N,,Rodriguez et al. 2014,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T1,,,,E. coli CN13,MP,,,,,19,,,Y,N,,Rodriguez et al. 2014,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T1UV,HER 468,,,E. coli CN13 ATCC 700609,LP,,,8.3,,,,,Y,N,,Beck et al. 2015,Y,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T1UV,HER 468,,,E. coli CN13 ATCC 700609,Laser,254,4.3,8.5,13,17,,,Y,N,,Beck et al. 2015,Y,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T4,,,,E. coli,LP,,1.1,2,3,4,6.7,,Y,N,,Bohrerova et al. 2008,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T4,,,,E. coli,MP,,1.1,1.7,2.6,4,7,,Y,N,,Bohrerova et al. 2008,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T4,,,,E. coli,LP,,3.6,8,13,,,,Y,N,,Hu et al. 2012,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T4,ATCC 11303,,,,LP,,3.7,7.4,11,17,23,29,Y,N,,Timchak & Gitis 2012,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T7,,,,E. coli,LP,,1.7,5.8,11,16,20,,Y,N,,Bohrerova et al. 2008,N,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T7,,,,E. coli,MP,,1.3,3.7,8,13,18,,Y,N,,Bohrerova et al. 2008,N,
+Virus,,,,,,NA,coliphage,,,,E. coli ATCC 11303,LP,,2.7,6,11,,,,Y,N,,Bowker et al. 2011,N,
+Virus,,,,,,NA,coliphage,,,,E. coli ATCC 11303,LP,,2.7,6,11,,,,Y,N,,Bowker et al. 2011,N,
+Virus,,,,,,NA,coliphage,,,,E. coli ATCC 11303,UV-LED,255,2.9,6.9,14,,,,Y,N,,Bowker et al. 2011,N,
+Virus,,,,,,NA,coliphage ATCC BAA-1025-B2,,,,E. coli ATCC,UV-LED,275,2.7,6,12,17,,,Y,N,,Bowker et al. 2011,N,
+Virus,,,,,,NA,,,,,E. coli CN13 ATCC 700609,LP,,,3.8,,,,,Y,N,,Beck et al. 2015,Y,
+Virus,,,,,,NA,coliphage ATCC BAA-1025-B2,,,,E. coli CN13 ATCC 700609,Laser,254,1.6,3.6,6.6,,,,Y,N,,Beck et al. 2015,Y,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T7m,ATCC 11303-B38,,,E. coli B ATCC 11303,LP,,,3.4,,,,,Y,N,,Beck et al. 2015,Y,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Drexlerviridae,Tunavirus,NA,T7m,ATCC 11303-B38,,,E. coli B ATCC 11303,Laser,254,1.7,3.8,6.3,11,,,Y,N,,Beck et al. 2015,Y,
+Virus,Uroviricota,Caudoviricetes,Caudovirales,Podoviridae,,NA,V1,,,,E. coli WG5,LP,,3.1,5.9,8.8,,,,Y,N,,Shin et al. 2005,N,
+Animalia,Nematoda,Chromadorea,Rhabditida,Ascarididae,Ascaris,NA,Ascaris suum,,,intact eggs,,LP,,100,328,,,,,Y,Y,,"Brownell & Nelson
+2006",N,
+Animalia,Nematoda,Chromadorea,Rhabditida,Ascarididae,Ascaris,NA,Ascaris suum,,,decorticated eggs,,LP,,30,,,,,,Y,N,,"Brownell & Nelson
+2006",N,
+Fungi,Basidiomycota,Tremellomycetes,Tremellales,Bulleribasidiaceae,Vishniacozyma,NA,Cryptococcus carnescens,PYCC 5988,,Yeast,,LP,,18,32,,,,,Y,N,,Pereira et al. 2013,N,Y
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Nakazawaea,NA,Candida sp. New species similar to C. pomicola,PYCC 5991,,Yeast,,LP,,10,25,,,,,Y,N,,Pereira et al. 2013,N,
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Metschnikowia,NA,Metschnikowia viticola/Candida kofuensis,PYCC 5993,,Yeast,,LP,,10,20,,,,,Y,N,,Pereira et al. 2013,N,
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Metschnikowia,NA,Metschnikowia viticola/Candida kofuensis,PYCC 5994,,Yeast,,LP,,8,17,,,,,Y,N,,Pereira et al. 2013,N,
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Metschnikowia,NA,Metschnikowia viticola/Candida kofuensis,,,Yeast,,LP,,10,23,,,,,Y,N,,Pereira et al. 2013,N,
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Metschnikowia,NA,Candida kofuensis yeast Microcystis aeruginosa,PYCC 5992 ,,Yeast,,LP,,10,28,60,,,,N,N,,Sakai et al. 2011,N,
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Metschnikowia,NA,Candida kofuensis yeast Microcystis aeruginosa,PYCC 5992 ,,Yeast,,MP,,15,130,200,,,,N,N,,Sakai et al. 2011,N,
+Fungi,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Rhodotorula,NA,Rhodosporidium babjevae,PYCC 5996,,Yeast,,LP,,40,90,,,,,Y,N,,Pereira et al. 2013,N,
+Fungi,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Rhodotorula,NA,Rhodotorula minuta (Saito),PYCC 5990,,Yeast,,LP,,43,90,,,,,Y,N,,Pereira et al. 2013,N,
+Fungi,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Rhodotorula,NA,Rhodotorula mucilaginosa yeast,PYCC 5989,,Yeast,,LP,,44,81,,,,,Y,N,,Pereira et al. 2013,N,
+Fungi,Basidiomycota,Microbotryomycetes,Sporidiobolales,Sporidiobolaceae,Rhodotorula,NA,Rhodotorula mucilaginosa yeast,PYCC 5995,,Yeast,,LP,,57,113,,,,,Y,N,,Pereira et al. 2013,N,
+Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,NA,Saccharomyces cerevisiae ,XS800,,Yeast,,LP,,42,70,100,,,,N,N,,Kim et al. 2004,N,
+Plantae,Chlorophyta,Chlorodendrophyceae,Chlorodendrales,Chlorodendraceae,Tetraselmis,NA,Tetraselmis suecica ,K0297,,Green algae,,LP,,370,540,720,,,,N,N,,Olsen et al. 2015,N,
