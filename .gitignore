@@ -3,7 +3,8 @@
 *.html
 *.png
 
-./Results
+./Results/*
+
 ### R ###
 # History files
 .Rhistory
