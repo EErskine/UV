@@ -5,5 +5,5 @@
 .DS_Store
 .quarto
 .pdf
-.png
 .html
+.Renviron
